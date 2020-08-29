@@ -1,4 +1,7 @@
 from battle.functions import *
+from battle.sprites import *
+import math
+
 
 
 class Move:
@@ -33,3 +36,16 @@ class Pokemon:
         self.special_attack = int(self.data[self.pokedex_number][7])
         self.defense = int(self.data[self.pokedex_number][8])
         self.special_defense = int(self.data[self.pokedex_number][9])
+
+    def image(self, image_type):
+        if image_type == 'front' :
+            pokemon = SpriteSheet("sprite_sheet_front.png")
+        elif image_type == 'back' :
+            pokemon = SpriteSheet("sprite_sheet_back.png")
+
+        poke_x = int(self.pokedex - 1) % 31 * 96
+        poke_row = math.floor((self.pokedex - 1) / 33)
+        poke_y = int(poke_row * 95)
+        pokemon_rect = (poke_x, poke_y + 10, 100, 95)
+
+        return pokemon.image_at(pokemon_rect, colorkey=(143, 165, 151))

@@ -14,26 +14,7 @@ class Battle:
         # Enemy's Pokemon
         self.pokemon_two = Pokemon(pokedex_two, "pokemon_base_stats.csv")
 
-        # Sprites
-        pokemon_front = SpriteSheet("sprite_sheet_front.png")
-        pokemon_back = SpriteSheet("sprite_sheet_back.png")
-
-        # finds location in sprite sheet
-        # Sprite one
-        poke_one_x = int(self.pokemon_one.pokedex - 1 ) % 31 * 96
-        poke_one_row = math.floor((self.pokemon_one.pokedex - 1) / 33)
-        poke_one_y = int(poke_one_row * 95)
-        pokemon_one_rect = (poke_one_x, poke_one_y + 10, 100, 95)
-
-        # Sprite two
-        poke_two_x = int(pokedex_two - 1) % 31 * 96
-        poke_two_row = math.floor((pokedex_two - 1) / 33)
-        poke_two_y = int(poke_two_row * 95)
-
-        pokemon_two_rect = (poke_two_x, poke_two_y + 10, 100, 95)
-
-        self.images = (pokemon_front.image_at(pokemon_two_rect, colorkey=(143, 165, 151)),
-                       pokemon_back.image_at(pokemon_one_rect, colorkey=(143, 165, 151)))
+        self.images = (self.pokemon_two.image("front"), self.pokemon_one.image("back"))
 
     # Draws sprites for battle
     def draw(self, window):
@@ -116,5 +97,3 @@ class Battle:
             enemy.health = 0
         if player.health <= 0:
             player.health = 0
-
-
