@@ -2,7 +2,6 @@ import pygame
 import os
 from battle.menu import *
 from battle.classes import *
-
 pygame.font.init()
 
 # Create window
