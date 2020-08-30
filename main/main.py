@@ -1,5 +1,5 @@
+from world.spawning import *
 import os
-from battle.classes import *
 pygame.font.init()
 
 # Create window
@@ -21,22 +21,19 @@ def main():
     def redraw_window():
         WIN.blit(TOKYO_BACKGROUND, (0, 0))
 
-    counter = 0
 
     while run:
-        #clock.tick(FPS)
+        clock.tick(FPS)
 
         redraw_window()
 
-        counter += 1
-        battle = Battle(1, counter)
-
         # Draws player and enemy screens
-        battle.draw(WIN)
+        party = PartyPokemon()
+        random_encounter = RandomEncounter(party.one, WIN)
+        random_encounter.draw()
 
         # Creates attack_menu
-        party_number = 1
-        attack_menu = Menu(WIN, party_number)
+        attack_menu = Menu(WIN, party.one)
         attack_menu.draw()
 
         # updates display
@@ -56,7 +53,7 @@ def main():
                 if attack_menu.clicked(mouse_pos):
                     # Calculates health after each round
                     move_number = attack_menu.clicked(mouse_pos) - 1
-                    battle.attack(move_number)
+                    random_encounter.attack(move_number)
 
 
 def main_menu():
