@@ -1,0 +1,2 @@
+pokedex_number,name,level,type_one,type_two,hp,attack,special attack,defense,special defense,speed,move_one,move_two,move_three,move_four,lowest_level,max_level
+10,Caterpie,None,Bug,None,45,30,35,20,20,45,String Shot,Tackle,None,None,2,5

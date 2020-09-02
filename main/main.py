@@ -21,6 +21,8 @@ def main():
     def redraw_window():
         WIN.blit(TOKYO_BACKGROUND, (0, 0))
 
+    party = PartyPokemon()
+    random_encounter = RandomEncounter(party.one, WIN)
 
     while run:
         clock.tick(FPS)
@@ -28,8 +30,7 @@ def main():
         redraw_window()
 
         # Draws player and enemy screens
-        party = PartyPokemon()
-        random_encounter = RandomEncounter(party.one, WIN)
+
         random_encounter.draw()
 
         # Creates attack_menu
@@ -44,16 +45,16 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 quit()
-            if event.type == pygame.MOUSEBUTTONUP:
 
+            if event.type == pygame.MOUSEBUTTONUP:
                 # Gets mouse position
                 mouse_pos = pygame.mouse.get_pos()
-
                 # Checks if a move has been clicked
                 if attack_menu.clicked(mouse_pos):
                     # Calculates health after each round
                     move_number = attack_menu.clicked(mouse_pos) - 1
                     random_encounter.attack(move_number)
+
 
 
 def main_menu():

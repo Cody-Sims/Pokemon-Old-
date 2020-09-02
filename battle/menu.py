@@ -33,11 +33,11 @@ class Button:
 
 
 class Menu:
-    def __init__(self, window, party_number, ):
+    def __init__(self, window, my_pokemon, ):
         self.buttons = []
         self.WIN = window
 
-        self.pokemon = Pokemon(party_number, "my_pokemon.csv")
+        self.pokemon = my_pokemon
         self.moves = []
 
         for i in range(4):

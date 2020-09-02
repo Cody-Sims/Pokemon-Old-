@@ -1,18 +1,15 @@
-import math
 import random
-from battle.sprites import *
 from battle.menu import *
 
 
-
 class Battle:
-    def __init__(self, party_number, pokedex_two):
+    def __init__(self, your_pokemon, encountered_pokemon):
 
         # Player's pokemon
-        self.pokemon_one = Pokemon(party_number, "my_pokemon.csv")
+        self.pokemon_one = your_pokemon
 
         # Enemy's Pokemon
-        self.pokemon_two = Pokemon(pokedex_two, "pokemon_base_stats.csv")
+        self.pokemon_two = encountered_pokemon
 
         self.images = (self.pokemon_two.image("front"), self.pokemon_one.image("back"))
 
@@ -30,14 +27,14 @@ class Battle:
 
         h = window.get_height() / 6
 
-        pygame.draw.rect(window, (123,123,123), ((0, window.get_height() - h), (window.get_width(), h)))
+        pygame.draw.rect(window, (123, 123, 123), ((0, window.get_height() - h), (window.get_width(), h)))
 
-        pygame.draw.rect(window, rect_color, ((0, 0),(rect_width, rect_height)))
+        pygame.draw.rect(window, rect_color, ((0, 0), (rect_width, rect_height)))
 
         pygame.draw.rect(window, rect_color, ((window.get_width() - rect_width,
                                                window.get_height() - h - rect_height), (rect_width, rect_height)))
 
-        # draw pokemon_two box
+        # draw Enemy box
         space = 10
         text_one = font.render(self.pokemon_two.name, 1, text_color)
         text_two = font.render(f"Health: {self.pokemon_two.health}", 1, text_color)
@@ -79,7 +76,7 @@ class Battle:
             return 1
 
         def critical_damage():
-            if random.randrange(0,100) < 7:
+            if random.randrange(0, 100) < 7:
                 return 2
             return 1
 

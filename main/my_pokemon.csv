@@ -1,7 +1,2 @@
-pokedex_number,name,type_one,type_two,level,hp,attack,special attack,defense,special defense,move_one,move_two,move_three,move_four
-1,bulbasaur,grass,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
-4,charmander,fire,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
-7,squirtle,water,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
-1,bulbasaur,grass,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
-1,bulbasaur,grass,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
-1,bulbasaur,grass,100,5,100,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor
+pokedex_number,name,type_one,type_two,level,hp,attack,special attack,defense,special defense,speed,move_one,move_two,move_three,move_four,lowest_level,max_level
+1,bulbasaur,grass,,5,100,5,5,5,5,5,Absorb,Wing Attack,Wood Hammer,X-Scissor,,
