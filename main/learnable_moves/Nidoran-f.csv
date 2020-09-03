@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Scratch,Normal,,40,100
+3.0,Tail Whip,Normal,,—,100
+6.0,Poison Sting,Poison,,15,100
+9.0,Double Kick,Fighting,,30,100
+12.0,Bite,Dark,,60,100
+15.0,Helping Hand,Normal,,—,—
+18.0,Toxic,Poison,,—,90
+21.0,Fury Swipes,Normal,,18,80
+24.0,Crunch,Dark,,80,100
+27.0,Super Fang,Normal,,—,90

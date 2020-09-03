@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+6.0,Razor Leaf,Grass,,55,95
+9.0,Poison Powder,Poison,,—,75
+12.0,Synthesis,Grass,,—,—
+17.0,Reflect,Psychic,,—,—
+20.0,Magical Leaf,Grass,,60,∞
+23.0,Natural Gift,Normal,,—,100
+28.0,Sweet Scent,Normal,,—,100
+31.0,Light Screen,Psychic,,—,—
+34.0,Body Slam,Normal,,85,100
+39.0,Safeguard,Normal,,—,—
+42.0,Aromatherapy,Grass,,—,—
+45.0,Solar Beam,Grass,,120,100

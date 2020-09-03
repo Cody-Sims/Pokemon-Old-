@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Attract,Normal,,—,100
+1.0,Gust,Flying,,40,100
+1.0,Pound,Normal,,40,100
+1.0,Soak,Water,,—,100
+1.0,Water Gun,Water,,40,100
+6.0,Water Gun,Water,,40,100
+10.0,Attract,Normal,,—,100
+13.0,Rain Dance,Water,,—,—
+17.0,Gust,Flying,,40,100
+22.0,Water Pulse,Water,,60,100
+26.0,Captivate,Normal,,—,100
+29.0,Safeguard,Normal,,—,—
+35.0,Aqua Ring,Water,,—,—
+42.0,Whirlpool,Water,,35,85
+48.0,U-turn,Bug,,70,100
+53.0,Bounce,Flying,,85,85
+59.0,Silver Wind,Bug,,60,100
+66.0,Soak,Water,,—,100

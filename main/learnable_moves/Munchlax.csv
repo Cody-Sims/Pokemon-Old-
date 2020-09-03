@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Lick,Ghost,,30,100
+1.0,Tackle,Normal,,40,100
+4.0,Defense Curl,Normal,,—,—
+8.0,Recycle,Normal,,—,—
+12.0,Covet,Normal,,60,100
+16.0,Bite,Dark,,60,100
+20.0,Stockpile,Normal,,—,—
+20.0,Swallow,Normal,,—,—
+24.0,Screech,Normal,,—,85
+28.0,Body Slam,Normal,,85,100
+32.0,Fling,Dark,,—,100
+36.0,Amnesia,Psychic,,—,—
+40.0,Metronome,Normal,,—,—
+44.0,Flail,Normal,,—,100
+48.0,Belly Drum,Normal,,—,—
+52.0,Last Resort,Normal,,140,100

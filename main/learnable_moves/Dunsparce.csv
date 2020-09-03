@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Defense Curl,Normal,,—,—
+1.0,Flail,Normal,,—,100
+4.0,Mud-Slap,Ground,,20,100
+8.0,Rollout,Rock,,30,90
+12.0,Glare,Normal,,—,100
+16.0,Screech,Normal,,—,85
+20.0,Ancient Power,Rock,,60,100
+24.0,Drill Run,Ground,,80,95
+28.0,Yawn,Normal,,—,—
+32.0,Body Slam,Normal,,85,100
+36.0,Take Down,Normal,,90,85
+40.0,Roost,Flying,,—,—
+44.0,Dragon Rush,Dragon,,100,75
+48.0,Coil,Poison,,—,—
+52.0,Double-Edge,Normal,,120,100
+56.0,Endeavor,Normal,,—,100

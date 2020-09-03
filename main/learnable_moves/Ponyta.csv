@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+5.0,Tail Whip,Normal,,—,100
+10.0,Ember,Fire,,40,100
+15.0,Flame Charge,Fire,,50,100
+20.0,Agility,Psychic,,—,—
+25.0,Flame Wheel,Fire,,60,100
+30.0,Stomp,Normal,,65,100
+35.0,Fire Spin,Fire,,35,85
+41.0,Take Down,Normal,,90,85
+45.0,Inferno,Fire,,100,50
+50.0,Fire Blast,Fire,,110,85
+55.0,Flare Blitz,Fire,,120,100

@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Constrict,Normal,,10,100
+1.0,Poison Sting,Poison,,15,100
+1.0,String Shot,Bug,,—,95
+5.0,Absorb,Grass,,20,100
+8.0,Infestation,Bug,,20,100
+12.0,Scary Face,Normal,,—,100
+15.0,Night Shade,Ghost,,—,100
+19.0,Shadow Sneak,Ghost,,40,100
+22.0,Fury Swipes,Normal,,18,80
+26.0,Sucker Punch,Dark,,70,100
+29.0,Spider Web,Bug,,—,—
+33.0,Agility,Psychic,,—,—
+36.0,Pin Missile,Bug,,25,95
+40.0,Psychic,Psychic,,90,100
+43.0,Poison Jab,Poison,,80,100
+47.0,Cross Poison,Poison,,70,100
+50.0,Sticky Web,Bug,,—,—
+54.0,Toxic Thread,Poison,,—,100

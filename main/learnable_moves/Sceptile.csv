@@ -1,0 +1,22 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Dual Chop,Dragon,,40,90
+1.0,Fury Cutter,Bug,,40,95
+1.0,Leaf Storm,Grass,,130,90
+1.0,Leer,Normal,,—,100
+1.0,Night Slash,Dark,,70,100
+1.0,Pound,Normal,,40,100
+1.0,Quick Attack,Normal,,40,100
+5.0,Absorb,Grass,,20,100
+9.0,Quick Attack,Normal,,40,100
+13.0,Mega Drain,Grass,,40,100
+18.0,Pursuit,Dark,,40,100
+23.0,Leaf Blade,Grass,,90,100
+28.0,Agility,Psychic,,—,—
+33.0,Slam,Normal,,80,75
+39.0,Detect,Fighting,,—,—
+45.0,X-Scissor,Bug,,80,100
+51.0,False Swipe,Normal,,40,100
+57.0,Quick Guard,Fighting,,—,—
+63.0,Leaf Storm,Grass,,130,90
+69.0,Screech,Normal,,—,85

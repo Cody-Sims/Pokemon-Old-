@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Acid,Poison,,40,100
+1.0,Astonish,Ghost,,30,100
+1.0,Constrict,Normal,,10,100
+1.0,Ingrain,Grass,,—,—
+1.0,Wring Out,Normal,,—,100
+5.0,Acid,Poison,,40,100
+9.0,Ingrain,Grass,,—,—
+13.0,Confuse Ray,Ghost,,—,100
+17.0,Ancient Power,Rock,,60,100
+21.0,Brine,Water,,65,100
+26.0,Giga Drain,Grass,,75,100
+31.0,Gastro Acid,Poison,,—,100
+36.0,Amnesia,Psychic,,—,—
+44.0,Energy Ball,Grass,,90,100
+52.0,Spit Up,Normal,,—,100
+52.0,Stockpile,Normal,,—,—
+52.0,Swallow,Normal,,—,—
+61.0,Wring Out,Normal,,—,100

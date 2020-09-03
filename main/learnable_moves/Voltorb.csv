@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+3.0,Light Screen,Psychic,,—,—
+6.0,Sonic Boom,Normal,,—,90
+9.0,Thunder Shock,Electric,,40,100
+14.0,Swift,Normal,,60,∞
+19.0,Self-Destruct,Normal,,200,100
+24.0,Screech,Normal,,—,85
+31.0,Thunderbolt,Electric,,90,100
+38.0,Mirror Coat,Psychic,,—,100
+45.0,Explosion,Normal,,250,100

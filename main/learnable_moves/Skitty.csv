@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Fake Out,Normal,,40,100
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+4.0,Foresight,Normal,,—,—
+7.0,Sing,Normal,,—,55
+10.0,Attract,Normal,,—,100
+13.0,Disarming Voice,Fairy,,40,∞
+16.0,Double Slap,Normal,,15,85
+19.0,Copycat,Normal,,—,—
+22.0,Feint Attack,Dark,,60,∞
+25.0,Charm,Fairy,,—,100
+28.0,Wake-Up Slap,Fighting,,70,100
+31.0,Assist,Normal,,—,—
+34.0,Covet,Normal,,60,100
+37.0,Heal Bell,Normal,,—,—
+40.0,Double-Edge,Normal,,120,100
+43.0,Captivate,Normal,,—,100
+46.0,Play Rough,Fairy,,90,90

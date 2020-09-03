@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Pound,Normal,,40,100
+1.0,Reflect Type,Normal,,—,—
+10.0,Amnesia,Psychic,,—,—
+20.0,Baton Pass,Normal,,—,—
+30.0,Ancient Power,Rock,,60,100
+40.0,Life Dew,Water,,—,—
+50.0,Nasty Plot,Dark,,—,—
+60.0,Metronome,Normal,,—,—
+70.0,Imprison,Psychic,,—,—
+80.0,Transform,Normal,,—,—
+90.0,Aura Sphere,Fighting,,80,∞
+100.0,Psychic,Psychic,,90,100

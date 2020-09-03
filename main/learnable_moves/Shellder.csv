@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+1.0,Water Gun,Water,,40,100
+4.0,Withdraw,Water,,—,—
+8.0,Ice Shard,Ice,,40,100
+12.0,Leer,Normal,,—,100
+16.0,Whirlpool,Water,,35,85
+20.0,Supersonic,Normal,,—,55
+24.0,Aurora Beam,Ice,,65,100
+28.0,Protect,Normal,,—,—
+32.0,Razor Shell,Water,,75,95
+36.0,Iron Defense,Steel,,—,—
+40.0,Ice Beam,Ice,,90,100
+44.0,Shell Smash,Normal,,—,—
+48.0,Hydro Pump,Water,,110,80

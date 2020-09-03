@@ -1,0 +1,21 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Arm Thrust,Fighting,,15,100
+1.0,Ember,Fire,,40,100
+1.0,Hammer Arm,Fighting,,100,90
+1.0,Odor Sleuth,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+3.0,Tail Whip,Normal,,—,100
+7.0,Ember,Fire,,40,100
+9.0,Odor Sleuth,Normal,,—,—
+13.0,Defense Curl,Normal,,—,—
+15.0,Flame Charge,Fire,,50,100
+20.0,Smog,Poison,,30,70
+23.0,Rollout,Rock,,30,90
+28.0,Take Down,Normal,,90,85
+31.0,Heat Crash,Fire,,—,100
+38.0,Assurance,Dark,,60,100
+43.0,Flamethrower,Fire,,90,100
+50.0,Head Smash,Rock,,150,80
+55.0,Roar,Normal,,—,—
+62.0,Flare Blitz,Fire,,120,100

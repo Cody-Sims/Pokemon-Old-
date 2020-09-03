@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Double Kick,Fighting,,30,100
+1.0,Ember,Fire,,40,100
+1.0,Growl,Normal,,—,100
+1.0,Sand Attack,Ground,,—,100
+1.0,Scratch,Normal,,40,100
+5.0,Ember,Fire,,40,100
+10.0,Sand Attack,Ground,,—,100
+14.0,Peck,Flying,,35,100
+20.0,Flame Charge,Fire,,50,100
+25.0,Quick Attack,Normal,,40,100
+31.0,Bulk Up,Fighting,,—,—
+36.0,Focus Energy,Normal,,—,—
+42.0,Slash,Normal,,70,100
+47.0,Mirror Move,Flying,,—,—
+53.0,Sky Uppercut,Fighting,,85,90
+58.0,Flare Blitz,Fire,,120,100

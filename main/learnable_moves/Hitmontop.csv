@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Fake Out,Normal,,40,100
+1.0,Feint,Normal,,30,100
+1.0,Focus Energy,Normal,,—,—
+1.0,Helping Hand,Normal,,—,—
+1.0,Rapid Spin,Normal,,50,100
+1.0,Tackle,Normal,,40,100
+1.0,Triple Kick,Fighting,,10,90
+4.0,Quick Attack,Normal,,40,100
+8.0,Gyro Ball,Steel,,—,100
+12.0,Detect,Fighting,,—,—
+16.0,Revenge,Fighting,,60,100
+21.0,Quick Guard,Fighting,,—,—
+21.0,Wide Guard,Rock,,—,—
+24.0,Sucker Punch,Dark,,70,100
+28.0,Agility,Psychic,,—,—
+32.0,Dig,Ground,,80,100
+36.0,Close Combat,Fighting,,120,100
+40.0,Counter,Fighting,,—,100
+44.0,Endeavor,Normal,,—,100

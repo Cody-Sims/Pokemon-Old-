@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Astonish,Ghost,,30,100
+1.0,Peck,Flying,,35,100
+5.0,Pursuit,Dark,,40,100
+11.0,Haze,Ice,,—,—
+15.0,Wing Attack,Flying,,60,100
+21.0,Night Shade,Ghost,,—,100
+25.0,Assurance,Dark,,60,100
+31.0,Taunt,Dark,,—,100
+35.0,Feint Attack,Dark,,60,∞
+41.0,Mean Look,Normal,,—,—
+45.0,Foul Play,Dark,,95,100
+50.0,Tailwind,Flying,,—,—
+55.0,Sucker Punch,Dark,,70,100
+61.0,Torment,Dark,,—,100
+65.0,Quash,Dark,,—,100

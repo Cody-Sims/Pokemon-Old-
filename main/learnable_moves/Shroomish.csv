@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Tackle,Normal,,40,100
+5.0,Stun Spore,Grass,,—,75
+8.0,Leech Seed,Grass,,—,90
+12.0,Mega Drain,Grass,,40,100
+15.0,Headbutt,Normal,,70,100
+19.0,Poison Powder,Poison,,—,75
+22.0,Worry Seed,Grass,,—,100
+26.0,Giga Drain,Grass,,75,100
+29.0,Growth,Normal,,—,—
+33.0,Toxic,Poison,,—,90
+36.0,Seed Bomb,Grass,,80,100
+40.0,Spore,Grass,,—,100

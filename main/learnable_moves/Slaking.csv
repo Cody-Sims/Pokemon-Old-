@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Encore,Normal,,—,100
+1.0,Fling,Dark,,—,100
+1.0,Hammer Arm,Fighting,,100,90
+1.0,Punishment,Dark,,—,100
+1.0,Scratch,Normal,,40,100
+1.0,Slack Off,Normal,,—,—
+1.0,Swagger,Normal,,—,85
+1.0,Yawn,Normal,,—,—
+6.0,Encore,Normal,,—,100
+9.0,Slack Off,Normal,,—,—
+14.0,Feint Attack,Dark,,60,∞
+17.0,Amnesia,Psychic,,—,—
+23.0,Covet,Normal,,60,100
+27.0,Chip Away,Normal,,70,100
+33.0,Counter,Fighting,,—,100
+39.0,Flail,Normal,,—,100
+47.0,Fling,Dark,,—,100
+53.0,Punishment,Dark,,—,100
+61.0,Hammer Arm,Fighting,,100,90

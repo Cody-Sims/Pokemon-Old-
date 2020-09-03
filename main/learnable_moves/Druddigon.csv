@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Scratch,Normal,,40,100
+5.0,Bite,Dark,,60,100
+10.0,Dragon Tail,Dragon,,60,90
+15.0,Metal Claw,Steel,,50,95
+20.0,Scary Face,Normal,,—,100
+25.0,Slash,Normal,,70,100
+30.0,Dragon Claw,Dragon,,80,100
+35.0,Hone Claws,Dark,,—,—
+40.0,Crunch,Dark,,80,100
+45.0,Iron Head,Steel,,80,100
+50.0,Outrage,Dragon,,120,100
+55.0,Superpower,Fighting,,120,100

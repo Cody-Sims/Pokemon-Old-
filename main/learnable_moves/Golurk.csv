@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Astonish,Ghost,,30,100
+1.0,Defense Curl,Normal,,—,—
+1.0,Focus Punch,Fighting,,150,100
+1.0,High Horsepower,Ground,,95,95
+1.0,Mud-Slap,Ground,,20,100
+1.0,Pound,Normal,,40,100
+12.0,Shadow Punch,Ghost,,60,∞
+16.0,Curse,Ghost,,—,—
+20.0,Night Shade,Ghost,,—,100
+24.0,Stomping Tantrum,Ground,,75,100
+28.0,Iron Defense,Steel,,—,—
+32.0,Mega Punch,Normal,,80,85
+36.0,Shadow Ball,Ghost,,80,100
+40.0,Heavy Slam,Steel,,—,100
+46.0,Phantom Force,Ghost,,90,100
+52.0,Hammer Arm,Fighting,,100,90
+58.0,Earthquake,Ground,,100,100
+64.0,Dynamic Punch,Fighting,,100,50

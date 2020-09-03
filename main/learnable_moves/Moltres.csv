@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Ember,Fire,,40,100
+1.0,Wing Attack,Flying,,60,100
+8.0,Fire Spin,Fire,,35,85
+16.0,Leer,Normal,,—,100
+24.0,Air Slash,Flying,,75,95
+32.0,Flamethrower,Fire,,90,100
+40.0,Agility,Psychic,,—,—
+48.0,Heat Wave,Fire,,95,90
+56.0,Roost,Flying,,—,—
+64.0,Solar Beam,Grass,,120,100
+72.0,Sky Attack,Flying,,140,90

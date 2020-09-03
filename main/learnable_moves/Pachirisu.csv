@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bide,Normal,,—,—
+1.0,Growl,Normal,,—,100
+5.0,Quick Attack,Normal,,40,100
+9.0,Charm,Fairy,,—,100
+13.0,Spark,Electric,,65,100
+17.0,Endure,Normal,,—,—
+19.0,Nuzzle,Electric,,20,100
+21.0,Swift,Normal,,60,∞
+25.0,Electro Ball,Electric,,—,100
+29.0,Sweet Kiss,Fairy,,—,75
+33.0,Thunder Wave,Electric,,—,90
+37.0,Super Fang,Normal,,—,90
+41.0,Discharge,Electric,,80,100
+45.0,Last Resort,Normal,,140,100
+49.0,Hyper Fang,Normal,,80,90

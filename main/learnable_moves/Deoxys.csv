@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Wrap,Normal,,15,90
+7.0,Night Shade,Ghost,,—,100
+13.0,Teleport,Psychic,,—,—
+19.0,Knock Off,Dark,,65,100
+25.0,Pursuit,Dark,,40,100
+31.0,Psychic,Psychic,,90,100
+37.0,Snatch,Dark,,—,—
+43.0,Psycho Shift,Psychic,,—,100
+49.0,Zen Headbutt,Psychic,,80,90
+55.0,Cosmic Power,Psychic,,—,—
+61.0,Recover,Normal,,—,—
+67.0,Psycho Boost,Psychic,,140,90
+73.0,Hyper Beam,Normal,,150,90

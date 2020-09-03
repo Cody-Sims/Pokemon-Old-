@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+1.0,Water Gun,Water,,40,100
+4.0,Supersonic,Normal,,—,55
+8.0,Wing Attack,Flying,,60,100
+12.0,Water Pulse,Water,,60,100
+16.0,Wide Guard,Rock,,—,—
+20.0,Agility,Psychic,,—,—
+24.0,Bubble Beam,Water,,65,100
+28.0,Headbutt,Normal,,70,100
+32.0,Air Slash,Flying,,75,95
+36.0,Aqua Ring,Water,,—,—
+40.0,Bounce,Flying,,85,85
+44.0,Take Down,Normal,,90,85
+48.0,Hydro Pump,Water,,110,80

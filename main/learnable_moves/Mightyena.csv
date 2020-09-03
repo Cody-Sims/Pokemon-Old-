@@ -1,0 +1,26 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bite,Dark,,60,100
+1.0,Crunch,Dark,,80,100
+1.0,Fire Fang,Fire,,65,95
+1.0,Howl,Normal,,—,—
+1.0,Ice Fang,Ice,,65,95
+1.0,Sand Attack,Ground,,—,100
+1.0,Snarl,Dark,,55,95
+1.0,Tackle,Normal,,40,100
+1.0,Thief,Dark,,60,100
+1.0,Thunder Fang,Electric,,65,95
+4.0,Howl,Normal,,—,—
+7.0,Sand Attack,Ground,,—,100
+10.0,Bite,Dark,,60,100
+13.0,Odor Sleuth,Normal,,—,—
+16.0,Roar,Normal,,—,—
+20.0,Swagger,Normal,,—,85
+24.0,Assurance,Dark,,60,100
+28.0,Scary Face,Normal,,—,100
+32.0,Embargo,Dark,,—,100
+36.0,Taunt,Dark,,—,100
+40.0,Crunch,Dark,,80,100
+44.0,Yawn,Normal,,—,—
+48.0,Take Down,Normal,,90,85
+52.0,Sucker Punch,Dark,,70,100
+56.0,Play Rough,Fairy,,90,90

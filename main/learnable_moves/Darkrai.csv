@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Disable,Normal,,—,100
+1.0,Ominous Wind,Ghost,,60,100
+11.0,Quick Attack,Normal,,40,100
+20.0,Hypnosis,Psychic,,—,60
+29.0,Feint Attack,Dark,,60,∞
+38.0,Nightmare,Ghost,,—,100
+47.0,Double Team,Normal,,—,—
+57.0,Haze,Ice,,—,—
+66.0,Dark Void,Dark,,—,50
+75.0,Nasty Plot,Dark,,—,—
+84.0,Dream Eater,Psychic,,100,100
+93.0,Dark Pulse,Dark,,80,100

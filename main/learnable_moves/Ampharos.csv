@@ -1,0 +1,25 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Dragon Pulse,Dragon,,85,100
+1.0,Fire Punch,Fire,,75,100
+1.0,Growl,Normal,,—,100
+1.0,Ion Deluge,Electric,,—,—
+1.0,Magnetic Flux,Electric,,—,—
+1.0,Tackle,Normal,,40,100
+1.0,Thunder Punch,Electric,,75,100
+1.0,Thunder Shock,Electric,,40,100
+1.0,Thunder Wave,Electric,,—,90
+1.0,Zap Cannon,Electric,,120,50
+4.0,Thunder Wave,Electric,,—,90
+8.0,Thunder Shock,Electric,,40,100
+11.0,Cotton Spore,Grass,,—,100
+16.0,Charge,Electric,,—,—
+20.0,Take Down,Normal,,90,85
+25.0,Electro Ball,Electric,,—,100
+29.0,Confuse Ray,Ghost,,—,100
+35.0,Power Gem,Rock,,80,100
+40.0,Discharge,Electric,,80,100
+46.0,Cotton Guard,Grass,,—,—
+51.0,Signal Beam,Bug,,75,100
+57.0,Light Screen,Psychic,,—,—
+62.0,Thunder,Electric,,110,70
+65.0,Dragon Pulse,Dragon,,85,100

@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bind,Normal,,15,85
+1.0,Leer,Normal,,—,100
+5.0,Focus Energy,Normal,,—,—
+10.0,Circle Throw,Fighting,,60,90
+15.0,Wide Guard,Rock,,—,—
+20.0,Revenge,Fighting,,60,100
+25.0,Bulk Up,Fighting,,—,—
+30.0,Storm Throw,Fighting,,60,100
+35.0,Vital Throw,Fighting,,70,∞
+40.0,Seismic Toss,Fighting,,—,100
+45.0,Endure,Normal,,—,—
+50.0,Reversal,Fighting,,—,100
+55.0,Superpower,Fighting,,120,100

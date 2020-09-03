@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Poison Gas,Poison,,—,90
+1.0,Scratch,Normal,,40,100
+3.0,Feint,Normal,,30,100
+6.0,Smokescreen,Normal,,—,100
+9.0,Acid Spray,Poison,,40,100
+12.0,Fury Swipes,Normal,,18,80
+15.0,Focus Energy,Normal,,—,—
+18.0,Bite,Dark,,60,100
+21.0,Venoshock,Poison,,65,100
+24.0,Screech,Normal,,—,85
+27.0,Toxic,Poison,,—,90
+30.0,Sucker Punch,Dark,,70,100
+33.0,Memento,Dark,,—,100
+36.0,Night Slash,Dark,,70,100
+39.0,Belch,Poison,,120,90
+42.0,Venom Drench,Poison,,—,100
+45.0,Explosion,Normal,,250,100

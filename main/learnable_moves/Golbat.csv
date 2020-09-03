@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Bite,Dark,,60,100
+1.0,Crunch,Dark,,80,100
+1.0,Quick Attack,Normal,,40,100
+1.0,Supersonic,Normal,,—,55
+1.0,Whirlwind,Normal,,—,—
+1.0,Wing Attack,Flying,,60,100
+4.0,Wing Attack,Flying,,60,100
+8.0,Bite,Dark,,60,100
+12.0,Swift,Normal,,60,∞
+17.0,Confuse Ray,Ghost,,—,100
+20.0,Haze,Ice,,—,—
+31.0,Leech Life,Bug,,80,100
+40.0,Toxic,Poison,,—,90
+51.0,Air Slash,Flying,,75,95

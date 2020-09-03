@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Air Slash,Flying,,75,95
+1.0,Leer,Normal,,—,100
+1.0,Peck,Flying,,35,100
+1.0,Stored Power,Psychic,,20,100
+1.0,Tailwind,Flying,,—,—
+1.0,Teleport,Psychic,,—,—
+15.0,Confuse Ray,Ghost,,—,100
+20.0,Night Shade,Ghost,,—,100
+28.0,Psycho Shift,Psychic,,—,100
+34.0,Guard Swap,Psychic,,—,—
+34.0,Power Swap,Psychic,,—,—
+41.0,Psychic,Psychic,,90,100
+48.0,Wish,Normal,,—,—
+55.0,Future Sight,Psychic,,120,100

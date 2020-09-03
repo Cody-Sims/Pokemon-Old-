@@ -1,0 +1,25 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bide,Normal,,—,—
+1.0,Confusion,Psychic,,50,100
+1.0,Detect,Fighting,,—,—
+1.0,Fire Punch,Fire,,75,100
+1.0,Ice Punch,Ice,,75,100
+1.0,Meditate,Psychic,,—,—
+1.0,Thunder Punch,Electric,,75,100
+1.0,Zen Headbutt,Psychic,,80,90
+4.0,Meditate,Psychic,,—,—
+7.0,Confusion,Psychic,,50,100
+9.0,Detect,Fighting,,—,—
+12.0,Endure,Normal,,—,—
+15.0,Feint,Normal,,30,100
+17.0,Force Palm,Fighting,,60,100
+20.0,Hidden Power,Normal,,60,100
+23.0,Calm Mind,Psychic,,—,—
+25.0,Mind Reader,Normal,,—,—
+28.0,High Jump Kick,Fighting,,130,90
+31.0,Psych Up,Normal,,—,—
+33.0,Acupressure,Normal,,—,—
+36.0,Power Trick,Psychic,,—,—
+42.0,Reversal,Fighting,,—,100
+47.0,Recover,Normal,,—,—
+53.0,Counter,Fighting,,—,100

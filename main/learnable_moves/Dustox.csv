@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Gust,Flying,,40,100
+12.0,Confusion,Psychic,,50,100
+15.0,Poison Powder,Poison,,—,75
+17.0,Moonlight,Fairy,,—,—
+20.0,Venoshock,Poison,,65,100
+22.0,Psybeam,Psychic,,65,100
+25.0,Silver Wind,Bug,,60,100
+27.0,Light Screen,Psychic,,—,—
+30.0,Whirlwind,Normal,,—,—
+32.0,Toxic,Poison,,—,90
+35.0,Bug Buzz,Bug,,90,100
+37.0,Protect,Normal,,—,—
+40.0,Quiver Dance,Bug,,—,—

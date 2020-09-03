@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Growth,Normal,,—,—
+4.0,Acid,Poison,,40,100
+8.0,Sweet Scent,Normal,,—,100
+12.0,Mega Drain,Grass,,40,100
+14.0,Poison Powder,Poison,,—,75
+16.0,Stun Spore,Grass,,—,75
+18.0,Sleep Powder,Grass,,—,75
+20.0,Giga Drain,Grass,,75,100
+24.0,Toxic,Poison,,—,90
+28.0,Moonblast,Fairy,,95,100
+32.0,Grassy Terrain,Grass,,—,—
+36.0,Moonlight,Fairy,,—,—
+40.0,Petal Dance,Grass,,120,100

@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Astonish,Ghost,,30,100
+1.0,Freeze-Dry,Ice,,70,100
+1.0,Harden,Normal,,—,—
+1.0,Icicle Crash,Ice,,85,90
+1.0,Mist,Ice,,—,—
+1.0,Taunt,Dark,,—,100
+1.0,Weather Ball,Normal,,50,100
+12.0,Icy Wind,Ice,,55,95
+16.0,Avalanche,Ice,,60,100
+20.0,Hail,Ice,,—,—
+24.0,Icicle Spear,Ice,,25,100
+28.0,Uproar,Normal,,90,100
+32.0,Acid Armor,Poison,,—,—
+38.0,Mirror Coat,Psychic,,—,100
+44.0,Ice Beam,Ice,,90,100
+52.0,Blizzard,Ice,,110,70
+60.0,Sheer Cold,Ice,,—,30

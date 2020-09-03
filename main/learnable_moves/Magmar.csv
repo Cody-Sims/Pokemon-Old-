@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Ember,Fire,,40,100
+1.0,Leer,Normal,,—,100
+6.0,Smog,Poison,,30,70
+11.0,Smokescreen,Normal,,—,100
+17.0,Clear Smog,Poison,,50,—
+22.0,Low Kick,Fighting,,—,100
+28.0,Fire Spin,Fire,,35,85
+33.0,Fire Punch,Fire,,75,100
+39.0,Confuse Ray,Ghost,,—,100
+44.0,Flamethrower,Fire,,90,100
+50.0,Fire Blast,Fire,,110,85

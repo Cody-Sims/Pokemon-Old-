@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+3.0,Vine Whip,Grass,,45,100
+6.0,Growth,Normal,,—,—
+9.0,Leech Seed,Grass,,—,90
+12.0,Razor Leaf,Grass,,55,95
+15.0,Poison Powder,Poison,,—,75
+15.0,Sleep Powder,Grass,,—,75
+18.0,Seed Bomb,Grass,,80,100
+21.0,Take Down,Normal,,90,85
+24.0,Sweet Scent,Normal,,—,100
+27.0,Synthesis,Grass,,—,—
+30.0,Worry Seed,Grass,,—,100
+33.0,Double-Edge,Normal,,120,100
+36.0,Solar Beam,Grass,,120,100

@@ -1,0 +1,24 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Baton Pass,Normal,,—,—
+1.0,Bite,Dark,,60,100
+1.0,Charm,Fairy,,—,100
+1.0,Confusion,Psychic,,50,100
+1.0,Copycat,Normal,,—,—
+1.0,Covet,Normal,,60,100
+1.0,Double-Edge,Normal,,120,100
+1.0,Growl,Normal,,—,100
+1.0,Helping Hand,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Take Down,Normal,,90,85
+5.0,Sand Attack,Ground,,—,100
+10.0,Quick Attack,Normal,,40,100
+15.0,Baby-Doll Eyes,Fairy,,—,100
+20.0,Swift,Normal,,60,∞
+25.0,Psybeam,Psychic,,65,100
+30.0,Morning Sun,Normal,,—,—
+35.0,Power Swap,Psychic,,—,—
+40.0,Psychic,Psychic,,90,100
+45.0,Psych Up,Normal,,—,—
+50.0,Future Sight,Psychic,,120,100
+55.0,Last Resort,Normal,,140,100

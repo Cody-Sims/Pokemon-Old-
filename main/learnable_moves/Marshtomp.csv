@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Mud Shot,Ground,,55,95
+1.0,Mud-Slap,Ground,,20,100
+1.0,Tackle,Normal,,40,100
+1.0,Water Gun,Water,,40,100
+4.0,Water Gun,Water,,40,100
+9.0,Mud-Slap,Ground,,20,100
+12.0,Foresight,Normal,,—,—
+18.0,Bide,Normal,,—,—
+22.0,Mud Bomb,Ground,,65,85
+28.0,Rock Slide,Rock,,75,90
+32.0,Protect,Normal,,—,—
+38.0,Muddy Water,Water,,90,85
+42.0,Take Down,Normal,,90,85
+48.0,Earthquake,Ground,,100,100
+52.0,Endeavor,Normal,,—,100

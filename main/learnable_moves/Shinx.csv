@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+4.0,Thunder Shock,Electric,,40,100
+8.0,Charge,Electric,,—,—
+12.0,Bite,Dark,,60,100
+16.0,Spark,Electric,,65,100
+20.0,Roar,Normal,,—,—
+24.0,Volt Switch,Electric,,70,100
+28.0,Scary Face,Normal,,—,100
+32.0,Thunder Wave,Electric,,—,90
+36.0,Crunch,Dark,,80,100
+40.0,Discharge,Electric,,80,100
+44.0,Swagger,Normal,,—,85
+48.0,Wild Charge,Electric,,90,100

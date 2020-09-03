@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Petal Blizzard,Grass,,90,100
+1.0,Petal Dance,Grass,,120,100
+1.0,Poison Powder,Poison,,—,75
+1.0,Razor Leaf,Grass,,55,95
+1.0,Tackle,Normal,,40,100
+6.0,Razor Leaf,Grass,,55,95
+9.0,Poison Powder,Poison,,—,75
+12.0,Synthesis,Grass,,—,—
+18.0,Reflect,Psychic,,—,—
+22.0,Magical Leaf,Grass,,60,∞
+26.0,Natural Gift,Normal,,—,100
+34.0,Sweet Scent,Normal,,—,100
+40.0,Light Screen,Psychic,,—,—
+46.0,Body Slam,Normal,,85,100
+54.0,Safeguard,Normal,,—,—
+60.0,Aromatherapy,Grass,,—,—
+66.0,Solar Beam,Grass,,120,100
+70.0,Petal Blizzard,Grass,,90,100

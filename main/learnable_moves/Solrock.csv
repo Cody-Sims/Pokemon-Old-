@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Flare Blitz,Fire,,120,100
+1.0,Harden,Normal,,—,—
+1.0,Morning Sun,Normal,,—,—
+1.0,Rock Throw,Rock,,50,90
+1.0,Tackle,Normal,,40,100
+5.0,Hypnosis,Psychic,,—,60
+10.0,Rock Polish,Rock,,—,—
+15.0,Rock Slide,Rock,,75,90
+20.0,Zen Headbutt,Psychic,,80,90
+25.0,Cosmic Power,Psychic,,—,—
+30.0,Psychic,Psychic,,90,100
+35.0,Stone Edge,Rock,,100,80
+40.0,Solar Beam,Grass,,120,100
+45.0,Wonder Room,Psychic,,—,—
+50.0,Explosion,Normal,,250,100

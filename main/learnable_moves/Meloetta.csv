@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Quick Attack,Normal,,40,100
+1.0,Round,Normal,,60,100
+1.0,Sing,Normal,,—,55
+6.0,Quick Attack,Normal,,40,100
+11.0,Confusion,Psychic,,50,100
+16.0,Sing,Normal,,—,55
+21.0,Teeter Dance,Normal,,—,100
+26.0,Acrobatics,Flying,,55,100
+31.0,Psybeam,Psychic,,65,100
+36.0,Echoed Voice,Normal,,40,100
+43.0,U-turn,Bug,,70,100
+50.0,Wake-Up Slap,Fighting,,70,100
+57.0,Psychic,Psychic,,90,100
+64.0,Hyper Voice,Normal,,90,100
+71.0,Role Play,Psychic,,—,—
+78.0,Close Combat,Fighting,,120,100
+85.0,Perish Song,Normal,,—,—

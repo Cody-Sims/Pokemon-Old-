@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Focus Energy,Normal,,—,—
+1.0,Gunk Shot,Poison,,120,80
+1.0,Helping Hand,Normal,,—,—
+1.0,Octazooka,Water,,65,85
+1.0,Rock Blast,Rock,,25,90
+1.0,Water Gun,Water,,40,100
+1.0,Water Pulse,Water,,60,100
+1.0,Wrap,Normal,,15,90
+12.0,Psybeam,Psychic,,65,100
+16.0,Aurora Beam,Ice,,65,100
+20.0,Bubble Beam,Water,,65,100
+24.0,Lock-On,Normal,,—,—
+30.0,Bullet Seed,Grass,,25,100
+36.0,Ice Beam,Ice,,90,100
+42.0,Hydro Pump,Water,,110,80
+48.0,Soak,Water,,—,100
+54.0,Hyper Beam,Normal,,150,90

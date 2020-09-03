@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bite,Dark,,60,100
+1.0,Wing Attack,Flying,,60,100
+7.0,Roar,Normal,,—,—
+14.0,Supersonic,Normal,,—,55
+21.0,Rock Throw,Rock,,50,90
+28.0,Agility,Psychic,,—,—
+35.0,Crunch,Dark,,80,100
+42.0,Rock Slide,Rock,,75,90
+49.0,Fly,Flying,,90,95
+56.0,Take Down,Normal,,90,85
+63.0,Hyper Beam,Normal,,150,90

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,False Swipe,Normal,,40,100
+1.0,Growl,Normal,,—,100
+1.0,Mud-Slap,Ground,,20,100
+1.0,Tail Whip,Normal,,—,100
+12.0,Headbutt,Normal,,70,100
+16.0,Retaliate,Normal,,70,100
+20.0,Fling,Dark,,—,100
+24.0,Stomping Tantrum,Ground,,75,100
+31.0,Bone Rush,Ground,,25,90
+36.0,Focus Energy,Normal,,—,—
+42.0,Endeavor,Normal,,—,100
+48.0,Bonemerang,Ground,,50,90
+54.0,Thrash,Normal,,120,100
+60.0,Double-Edge,Normal,,120,100

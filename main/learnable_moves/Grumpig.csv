@@ -1,0 +1,21 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Belch,Poison,,120,90
+1.0,Odor Sleuth,Normal,,—,—
+1.0,Psybeam,Psychic,,65,100
+1.0,Psywave,Psychic,,—,100
+1.0,Splash,Normal,,—,—
+1.0,Teeter Dance,Normal,,—,100
+7.0,Psywave,Psychic,,—,100
+10.0,Odor Sleuth,Normal,,—,—
+14.0,Psybeam,Psychic,,65,100
+15.0,Psych Up,Normal,,—,—
+18.0,Confuse Ray,Ghost,,—,100
+21.0,Magic Coat,Psychic,,—,—
+26.0,Zen Headbutt,Psychic,,80,90
+29.0,Power Gem,Rock,,80,100
+35.0,Rest,Psychic,,—,—
+35.0,Snore,Normal,,50,100
+42.0,Psyshock,Psychic,,80,100
+46.0,Payback,Dark,,50,100
+52.0,Psychic,Psychic,,90,100
+60.0,Bounce,Flying,,85,85

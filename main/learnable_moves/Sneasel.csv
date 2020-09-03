@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Scratch,Normal,,40,100
+6.0,Taunt,Dark,,—,100
+12.0,Quick Attack,Normal,,40,100
+18.0,Metal Claw,Steel,,50,95
+24.0,Icy Wind,Ice,,55,95
+30.0,Fury Swipes,Normal,,18,80
+36.0,Hone Claws,Dark,,—,—
+42.0,Beat Up,Dark,,—,100
+48.0,Agility,Psychic,,—,—
+54.0,Screech,Normal,,—,85
+60.0,Slash,Normal,,70,100

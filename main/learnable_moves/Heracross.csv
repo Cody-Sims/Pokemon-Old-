@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+5.0,Fury Attack,Normal,,15,85
+10.0,Endure,Normal,,—,—
+15.0,Aerial Ace,Flying,,60,∞
+20.0,Horn Attack,Normal,,65,100
+25.0,Counter,Fighting,,—,100
+30.0,Brick Break,Fighting,,75,100
+35.0,Pin Missile,Bug,,25,95
+40.0,Throat Chop,Dark,,80,100
+45.0,Thrash,Normal,,120,100
+50.0,Swords Dance,Normal,,—,—
+55.0,Megahorn,Bug,,120,85
+60.0,Close Combat,Fighting,,120,100

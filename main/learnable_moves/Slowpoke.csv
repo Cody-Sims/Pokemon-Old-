@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Curse,Ghost,,—,—
+1.0,Tackle,Normal,,40,100
+3.0,Growl,Normal,,—,100
+6.0,Water Gun,Water,,40,100
+9.0,Yawn,Normal,,—,—
+12.0,Confusion,Psychic,,50,100
+15.0,Disable,Normal,,—,100
+18.0,Water Pulse,Water,,60,100
+21.0,Headbutt,Normal,,70,100
+24.0,Zen Headbutt,Psychic,,80,90
+27.0,Amnesia,Psychic,,—,—
+30.0,Surf,Water,,90,100
+33.0,Slack Off,Normal,,—,—
+36.0,Psychic,Psychic,,90,100
+39.0,Psych Up,Normal,,—,—
+42.0,Rain Dance,Water,,—,—
+45.0,Heal Pulse,Psychic,,—,—

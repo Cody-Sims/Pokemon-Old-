@@ -1,0 +1,25 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Baton Pass,Normal,,—,—
+1.0,Bite,Dark,,60,100
+1.0,Charm,Fairy,,—,100
+1.0,Copycat,Normal,,—,—
+1.0,Covet,Normal,,60,100
+1.0,Double-Edge,Normal,,120,100
+1.0,Growl,Normal,,—,100
+1.0,Helping Hand,Normal,,—,—
+1.0,Swift,Normal,,60,∞
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Take Down,Normal,,90,85
+1.0,Thunder Shock,Electric,,40,100
+5.0,Sand Attack,Ground,,—,100
+10.0,Quick Attack,Normal,,40,100
+15.0,Baby-Doll Eyes,Fairy,,—,100
+20.0,Thunder Wave,Electric,,—,90
+25.0,Double Kick,Fighting,,30,100
+30.0,Thunder Fang,Electric,,65,95
+35.0,Pin Missile,Bug,,25,95
+40.0,Discharge,Electric,,80,100
+45.0,Agility,Psychic,,—,—
+50.0,Thunder,Electric,,110,70
+55.0,Last Resort,Normal,,140,100

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bind,Normal,,15,85
+1.0,Growth,Normal,,—,—
+7.0,Bite,Dark,,60,100
+11.0,Vine Whip,Grass,,45,100
+17.0,Sweet Scent,Normal,,—,100
+21.0,Ingrain,Grass,,—,—
+27.0,Feint Attack,Dark,,60,∞
+31.0,Leaf Tornado,Grass,,65,90
+37.0,Spit Up,Normal,,—,100
+37.0,Stockpile,Normal,,—,—
+37.0,Swallow,Normal,,—,—
+41.0,Crunch,Dark,,80,100
+47.0,Wring Out,Normal,,—,100
+50.0,Power Whip,Grass,,120,85

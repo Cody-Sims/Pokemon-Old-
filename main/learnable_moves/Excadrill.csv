@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Hone Claws,Dark,,—,—
+1.0,Horn Drill,Normal,,—,30
+1.0,Mud-Slap,Ground,,20,100
+1.0,Rapid Spin,Normal,,50,100
+1.0,Scratch,Normal,,40,100
+12.0,Fury Swipes,Normal,,18,80
+16.0,Metal Claw,Steel,,50,95
+20.0,Sandstorm,Rock,,—,—
+24.0,Crush Claw,Normal,,75,95
+28.0,Rock Slide,Rock,,75,90
+34.0,Dig,Ground,,80,100
+40.0,Swords Dance,Normal,,—,—
+46.0,Drill Run,Ground,,80,95
+52.0,Earthquake,Ground,,100,100
+58.0,Fissure,Ground,,—,30

@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Growth,Normal,,—,—
+1.0,Poison Sting,Poison,,15,100
+1.0,Stun Spore,Grass,,—,75
+1.0,Worry Seed,Grass,,—,100
+5.0,Mega Drain,Grass,,40,100
+10.0,Leech Seed,Grass,,—,90
+15.0,Magical Leaf,Grass,,60,∞
+20.0,Toxic Spikes,Poison,,—,—
+25.0,Sweet Scent,Normal,,—,100
+30.0,Giga Drain,Grass,,75,100
+35.0,Synthesis,Grass,,—,—
+40.0,Toxic,Poison,,—,90
+45.0,Petal Blizzard,Grass,,90,100
+50.0,Aromatherapy,Grass,,—,—
+55.0,Ingrain,Grass,,—,—
+60.0,Petal Dance,Grass,,120,100

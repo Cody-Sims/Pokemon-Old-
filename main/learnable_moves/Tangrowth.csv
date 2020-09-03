@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Bind,Normal,,15,85
+1.0,Block,Normal,,—,—
+1.0,Growth,Normal,,—,—
+1.0,Stun Spore,Grass,,—,75
+12.0,Mega Drain,Grass,,40,100
+16.0,Vine Whip,Grass,,45,100
+20.0,Poison Powder,Poison,,—,75
+24.0,Ancient Power,Rock,,60,100
+28.0,Knock Off,Dark,,65,100
+32.0,Giga Drain,Grass,,75,100
+36.0,Sleep Powder,Grass,,—,75
+40.0,Slam,Normal,,80,75
+44.0,Tickle,Normal,,—,100
+48.0,Power Whip,Grass,,120,85
+52.0,Ingrain,Grass,,—,—
+56.0,Grassy Terrain,Grass,,—,—

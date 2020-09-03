@@ -1,0 +1,22 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bullet Punch,Steel,,40,100
+1.0,Drain Punch,Fighting,,75,100
+1.0,Fake Out,Normal,,40,100
+1.0,Feint,Normal,,30,100
+1.0,Focus Energy,Normal,,—,—
+1.0,Helping Hand,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+1.0,Vacuum Wave,Fighting,,40,100
+4.0,Mach Punch,Fighting,,40,100
+8.0,Power-Up Punch,Fighting,,40,100
+12.0,Detect,Fighting,,—,—
+16.0,Revenge,Fighting,,60,100
+21.0,Quick Guard,Fighting,,—,—
+24.0,Fire Punch,Fire,,75,100
+24.0,Ice Punch,Ice,,75,100
+24.0,Thunder Punch,Electric,,75,100
+28.0,Agility,Psychic,,—,—
+32.0,Mega Punch,Normal,,80,85
+36.0,Close Combat,Fighting,,120,100
+40.0,Counter,Fighting,,—,100
+44.0,Focus Punch,Fighting,,150,100

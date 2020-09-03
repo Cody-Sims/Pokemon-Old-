@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Harden,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+5.0,Metal Claw,Steel,,50,95
+10.0,Pin Missile,Bug,,25,95
+15.0,Ingrain,Grass,,—,—
+20.0,Flash Cannon,Steel,,80,100
+25.0,Iron Head,Steel,,80,100
+30.0,Self-Destruct,Normal,,200,100
+35.0,Iron Defense,Steel,,—,—
+41.0,Curse,Ghost,,—,—
+45.0,Gyro Ball,Steel,,—,100
+50.0,Explosion,Normal,,250,100

@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Charge Beam,Electric,,50,90
+1.0,Crunch,Dark,,80,100
+1.0,Headbutt,Normal,,70,100
+1.0,Spark,Electric,,65,100
+1.0,Thunder Wave,Electric,,—,90
+9.0,Bind,Normal,,15,85
+19.0,Acid,Poison,,40,100
+29.0,Discharge,Electric,,80,100
+44.0,Thunderbolt,Electric,,90,100
+49.0,Acid Spray,Poison,,40,100
+54.0,Coil,Poison,,—,—
+59.0,Wild Charge,Electric,,90,100
+64.0,Gastro Acid,Poison,,—,100
+69.0,Zap Cannon,Electric,,120,50
+74.0,Thrash,Normal,,120,100

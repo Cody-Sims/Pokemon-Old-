@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Ember,Fire,,40,100
+1.0,Tackle,Normal,,40,100
+4.0,Taunt,Dark,,—,100
+8.0,Bite,Dark,,60,100
+12.0,Incinerate,Fire,,60,100
+16.0,Work Up,Normal,,—,—
+20.0,Fire Fang,Fire,,65,95
+24.0,Headbutt,Normal,,70,100
+28.0,Fire Punch,Fire,,75,100
+32.0,Uproar,Normal,,90,100
+36.0,Belly Drum,Normal,,—,—
+40.0,Flare Blitz,Fire,,120,100
+44.0,Thrash,Normal,,120,100
+48.0,Superpower,Fighting,,120,100

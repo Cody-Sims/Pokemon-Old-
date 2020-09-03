@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Camouflage,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+4.0,Growl,Normal,,—,100
+7.0,Sand Attack,Ground,,—,100
+10.0,Double Kick,Fighting,,30,100
+13.0,Leech Seed,Grass,,—,90
+16.0,Feint Attack,Dark,,60,∞
+20.0,Take Down,Normal,,90,85
+24.0,Jump Kick,Fighting,,100,95
+28.0,Aromatherapy,Grass,,—,—
+32.0,Energy Ball,Grass,,90,100
+36.0,Charm,Fairy,,—,100
+41.0,Nature Power,Normal,,—,—
+46.0,Double-Edge,Normal,,120,100
+51.0,Solar Beam,Grass,,120,100

@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bide,Normal,,—,—
+1.0,Constrict,Normal,,10,100
+1.0,Leer,Normal,,—,100
+1.0,Spike Cannon,Normal,,20,100
+1.0,Supersonic,Normal,,—,55
+1.0,Water Gun,Water,,40,100
+1.0,Withdraw,Water,,—,—
+4.0,Withdraw,Water,,—,—
+11.0,Leer,Normal,,—,100
+15.0,Water Gun,Water,,40,100
+22.0,Bite,Dark,,60,100
+26.0,Rock Throw,Rock,,50,90
+33.0,Protect,Normal,,—,—
+37.0,Rock Slide,Rock,,75,90
+50.0,Hydro Pump,Water,,110,80
+60.0,Shell Smash,Normal,,—,—

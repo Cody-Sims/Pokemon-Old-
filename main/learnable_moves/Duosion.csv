@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Endeavor,Normal,,—,100
+1.0,Protect,Normal,,—,—
+1.0,Recover,Normal,,—,—
+12.0,Psybeam,Psychic,,65,100
+16.0,Charm,Fairy,,—,100
+20.0,Psyshock,Psychic,,80,100
+24.0,Light Screen,Psychic,,—,—
+24.0,Reflect,Psychic,,—,—
+28.0,Ally Switch,Psychic,,—,—
+35.0,Pain Split,Normal,,—,—
+40.0,Psychic,Psychic,,90,100
+46.0,Skill Swap,Psychic,,—,—
+52.0,Future Sight,Psychic,,120,100
+58.0,Wonder Room,Psychic,,—,—

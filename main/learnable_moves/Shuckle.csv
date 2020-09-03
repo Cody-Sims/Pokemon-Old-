@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Withdraw,Water,,—,—
+1.0,Wrap,Normal,,15,90
+5.0,Rollout,Rock,,30,90
+10.0,Struggle Bug,Bug,,50,100
+15.0,Rock Throw,Rock,,50,90
+20.0,Safeguard,Normal,,—,—
+25.0,Rest,Psychic,,—,—
+30.0,Bug Bite,Bug,,60,100
+35.0,Guard Split,Psychic,,—,—
+35.0,Power Split,Psychic,,—,—
+40.0,Rock Slide,Rock,,75,90
+45.0,Gastro Acid,Poison,,—,100
+50.0,Sticky Web,Bug,,—,—
+55.0,Power Trick,Psychic,,—,—
+60.0,Stone Edge,Rock,,100,80
+65.0,Shell Smash,Normal,,—,—

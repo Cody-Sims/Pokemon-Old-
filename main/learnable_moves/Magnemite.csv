@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+1.0,Thunder Shock,Electric,,40,100
+4.0,Supersonic,Normal,,—,55
+8.0,Thunder Wave,Electric,,—,90
+12.0,Electro Ball,Electric,,—,100
+16.0,Gyro Ball,Steel,,—,100
+20.0,Spark,Electric,,65,100
+24.0,Screech,Normal,,—,85
+28.0,Magnet Rise,Electric,,—,—
+32.0,Flash Cannon,Steel,,80,100
+36.0,Discharge,Electric,,80,100
+40.0,Metal Sound,Steel,,—,85
+44.0,Light Screen,Psychic,,—,—
+48.0,Lock-On,Normal,,—,—
+52.0,Zap Cannon,Electric,,120,50

@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Lick,Ghost,,30,100
+1.0,Tackle,Normal,,40,100
+5.0,Fury Swipes,Normal,,18,80
+10.0,Incinerate,Fire,,60,100
+15.0,Bug Bite,Bug,,60,100
+20.0,Spit Up,Normal,,—,100
+20.0,Stockpile,Normal,,—,—
+20.0,Swallow,Normal,,—,—
+25.0,Slash,Normal,,70,100
+30.0,Bind,Normal,,15,85
+35.0,Fire Lash,Fire,,80,100
+40.0,Hone Claws,Dark,,—,—
+45.0,Amnesia,Psychic,,—,—
+50.0,Fire Spin,Fire,,35,85
+55.0,Inferno,Fire,,100,50
+60.0,Flare Blitz,Fire,,120,100

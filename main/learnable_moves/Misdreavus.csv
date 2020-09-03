@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Psywave,Psychic,,—,100
+5.0,Spite,Ghost,,—,100
+10.0,Astonish,Ghost,,30,100
+14.0,Confuse Ray,Ghost,,—,100
+19.0,Mean Look,Normal,,—,—
+23.0,Hex,Ghost,,65,100
+28.0,Psybeam,Psychic,,65,100
+32.0,Pain Split,Normal,,—,—
+37.0,Payback,Dark,,50,100
+41.0,Shadow Ball,Ghost,,80,100
+46.0,Perish Song,Normal,,—,—
+50.0,Grudge,Ghost,,—,—
+55.0,Power Gem,Rock,,80,100

@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Harden,Normal,,—,—
+1.0,Hyper Beam,Normal,,150,90
+1.0,Mud-Slap,Ground,,20,100
+1.0,Rapid Spin,Normal,,50,100
+1.0,Teleport,Psychic,,—,—
+9.0,Rock Tomb,Rock,,60,95
+12.0,Power Trick,Psychic,,—,—
+15.0,Psybeam,Psychic,,65,100
+18.0,Ancient Power,Rock,,60,100
+21.0,Imprison,Psychic,,—,—
+24.0,Cosmic Power,Psychic,,—,—
+27.0,Extrasensory,Psychic,,80,100
+30.0,Earth Power,Ground,,90,100
+33.0,Self-Destruct,Normal,,200,100
+38.0,Guard Split,Psychic,,—,—
+38.0,Power Split,Psychic,,—,—
+43.0,Sandstorm,Rock,,—,—
+48.0,Explosion,Normal,,250,100

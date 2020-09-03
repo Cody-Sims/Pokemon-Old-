@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Fake Out,Normal,,40,100
+5.0,Scratch,Normal,,40,100
+8.0,Growl,Normal,,—,100
+13.0,Hypnosis,Psychic,,—,60
+17.0,Feint Attack,Dark,,60,∞
+20.0,Fury Swipes,Normal,,18,80
+25.0,Charm,Fairy,,—,100
+29.0,Assist,Normal,,—,—
+32.0,Captivate,Normal,,—,100
+37.0,Slash,Normal,,70,100
+41.0,Sucker Punch,Dark,,70,100
+44.0,Attract,Normal,,—,100
+48.0,Hone Claws,Dark,,—,—
+50.0,Play Rough,Fairy,,90,90

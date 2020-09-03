@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bulldoze,Ground,,60,100.0
+1.0,Hammer Arm,Fighting,,100,90.0
+1.0,Smack Down,Rock,,50,100.0
+1.0,Tackle,Normal,,40,100.0
+1.0,Tail Whip,Normal,,—,100.0
+15.0,Horn Attack,Normal,,65,100.0
+20.0,Scary Face,Normal,,—,100.0
+25.0,Stomp,Normal,,65,100.0
+30.0,Rock Blast,Rock,,25,90.0
+35.0,Drill Run,Ground,,80,95.0
+40.0,Take Down,Normal,,90,85.0
+47.0,Earthquake,Ground,,100,100.0
+54.0,Stone Edge,Rock,,100,80.0
+61.0,Megahorn,Bug,,120,85.0
+68.0,Horn Drill,Normal,,—,30.0

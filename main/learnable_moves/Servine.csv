@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+1.0,Vine Whip,Grass,,45,100
+1.0,Wrap,Normal,,15,90
+4.0,Leer,Normal,,—,100
+7.0,Vine Whip,Grass,,45,100
+10.0,Wrap,Normal,,15,90
+13.0,Growth,Normal,,—,—
+16.0,Leaf Tornado,Grass,,65,90
+20.0,Leech Seed,Grass,,—,90
+24.0,Mega Drain,Grass,,40,100
+28.0,Slam,Normal,,80,75
+32.0,Leaf Blade,Grass,,90,100
+36.0,Coil,Poison,,—,—
+40.0,Giga Drain,Grass,,75,100
+44.0,Wring Out,Normal,,—,100
+48.0,Gastro Acid,Poison,,—,100
+52.0,Leaf Storm,Grass,,130,90

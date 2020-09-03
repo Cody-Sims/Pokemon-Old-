@@ -1,0 +1,21 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Heal Block,Psychic,,—,100
+1.0,Helping Hand,Normal,,—,—
+1.0,Memento,Dark,,—,100
+1.0,Psywave,Psychic,,—,100
+1.0,Safeguard,Normal,,—,—
+4.0,Protect,Normal,,—,—
+7.0,Dragon Dance,Dragon,,—,—
+10.0,Stored Power,Psychic,,20,100
+13.0,Refresh,Normal,,—,—
+16.0,Heal Pulse,Psychic,,—,—
+20.0,Dragon Breath,Dragon,,60,100
+24.0,Luster Purge,Psychic,,70,100
+28.0,Psycho Shift,Psychic,,—,100
+32.0,Recover,Normal,,—,—
+36.0,Telekinesis,Psychic,,—,—
+41.0,Zen Headbutt,Psychic,,80,90
+46.0,Power Split,Psychic,,—,—
+51.0,Psychic,Psychic,,90,100
+56.0,Dragon Pulse,Dragon,,85,100
+61.0,Memento,Dark,,—,100

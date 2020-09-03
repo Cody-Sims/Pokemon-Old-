@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growth,Normal,,—,—
+1.0,Gust,Flying,,40,100
+1.0,Leaf Storm,Grass,,130,90
+1.0,Leer,Normal,,—,100
+1.0,Razor Leaf,Grass,,55,95
+6.0,Sweet Scent,Normal,,—,100
+10.0,Stomp,Normal,,65,100
+16.0,Magical Leaf,Grass,,60,∞
+21.0,Whirlwind,Normal,,—,—
+26.0,Leaf Tornado,Grass,,65,90
+30.0,Natural Gift,Normal,,—,100
+36.0,Air Slash,Flying,,75,95
+41.0,Body Slam,Normal,,85,100
+46.0,Bestow,Normal,,—,—
+50.0,Synthesis,Grass,,—,—
+56.0,Solar Beam,Grass,,120,100
+61.0,Leaf Storm,Grass,,130,90

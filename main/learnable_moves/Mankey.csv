@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Scratch,Normal,,40,100
+5.0,Focus Energy,Normal,,—,—
+8.0,Taunt,Dark,,—,100
+13.0,Karate Chop,Fighting,,50,100
+16.0,Fury Swipes,Normal,,18,80
+21.0,Low Kick,Fighting,,—,100
+24.0,Seismic Toss,Fighting,,—,100
+29.0,U-turn,Bug,,70,100
+32.0,Screech,Normal,,—,85
+37.0,Thrash,Normal,,120,100
+40.0,Outrage,Dragon,,120,100

@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Ember,Fire,,40,100
+1.0,Leer,Normal,,—,100
+4.0,Howl,Normal,,—,—
+8.0,Smog,Poison,,30,70
+13.0,Roar,Normal,,—,—
+16.0,Bite,Dark,,60,100
+20.0,Odor Sleuth,Normal,,—,—
+25.0,Beat Up,Dark,,—,100
+28.0,Fire Fang,Fire,,65,95
+32.0,Feint Attack,Dark,,60,∞
+37.0,Embargo,Dark,,—,100
+40.0,Foul Play,Dark,,95,100
+44.0,Flamethrower,Fire,,90,100
+49.0,Crunch,Dark,,80,100
+52.0,Nasty Plot,Dark,,—,—
+56.0,Inferno,Fire,,100,50

@@ -1,0 +1,23 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bind,Normal,,15,85
+1.0,Ice Shard,Ice,,40,100
+1.0,Night Slash,Dark,,70,100
+1.0,Rapid Spin,Normal,,50,100
+1.0,Sharpen,Normal,,—,—
+1.0,Sheer Cold,Ice,,—,30
+5.0,Icy Wind,Ice,,55,95
+9.0,Haze,Ice,,—,—
+9.0,Mist,Ice,,—,—
+13.0,Aurora Beam,Ice,,65,100
+17.0,Acid Armor,Poison,,—,—
+21.0,Ancient Power,Rock,,60,100
+25.0,Ice Beam,Ice,,90,100
+29.0,Light Screen,Psychic,,—,—
+33.0,Reflect,Psychic,,—,—
+37.0,Slash,Normal,,70,100
+41.0,Confuse Ray,Ghost,,—,100
+45.0,Recover,Normal,,—,—
+49.0,Freeze-Dry,Ice,,70,100
+50.0,Solar Beam,Grass,,120,100
+53.0,Night Slash,Dark,,70,100
+57.0,Sheer Cold,Ice,,—,30

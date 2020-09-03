@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+3.0,Tail Whip,Normal,,—,100
+6.0,Quick Attack,Normal,,40,100
+9.0,Focus Energy,Normal,,—,—
+12.0,Bite,Dark,,60,100
+15.0,Super Fang,Normal,,—,90
+18.0,Crunch,Dark,,80,100
+21.0,Hyper Fang,Normal,,80,90
+24.0,Sucker Punch,Dark,,70,100
+27.0,Double-Edge,Normal,,120,100

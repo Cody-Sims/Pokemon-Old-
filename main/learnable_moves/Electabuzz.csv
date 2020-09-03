@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Thunder Shock,Electric,,40,100
+6.0,Quick Attack,Normal,,40,100
+11.0,Thunder Wave,Electric,,—,90
+17.0,Swift,Normal,,60,∞
+22.0,Low Kick,Fighting,,—,100
+28.0,Light Screen,Psychic,,—,—
+33.0,Thunder Punch,Electric,,75,100
+39.0,Screech,Normal,,—,85
+44.0,Thunderbolt,Electric,,90,100
+50.0,Thunder,Electric,,110,70

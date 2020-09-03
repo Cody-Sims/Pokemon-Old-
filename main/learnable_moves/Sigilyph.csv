@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Gust,Flying,,40,100
+5.0,Gravity,Psychic,,—,—
+10.0,Hypnosis,Psychic,,—,60
+15.0,Air Cutter,Flying,,60,95
+20.0,Psybeam,Psychic,,65,100
+25.0,Whirlwind,Normal,,—,—
+30.0,Cosmic Power,Psychic,,—,—
+35.0,Air Slash,Flying,,75,95
+40.0,Psychic,Psychic,,90,100
+45.0,Tailwind,Flying,,—,—
+50.0,Light Screen,Psychic,,—,—
+50.0,Reflect,Psychic,,—,—
+55.0,Sky Attack,Flying,,140,90
+60.0,Skill Swap,Psychic,,—,—

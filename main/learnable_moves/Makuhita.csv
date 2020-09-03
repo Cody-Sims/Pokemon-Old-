@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Focus Energy,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+4.0,Sand Attack,Ground,,—,100
+7.0,Arm Thrust,Fighting,,15,100
+10.0,Fake Out,Normal,,40,100
+13.0,Force Palm,Fighting,,60,100
+16.0,Whirlwind,Normal,,—,—
+19.0,Knock Off,Dark,,65,100
+22.0,Vital Throw,Fighting,,70,∞
+25.0,Belly Drum,Normal,,—,—
+28.0,Smelling Salts,Normal,,70,100
+31.0,Seismic Toss,Fighting,,—,100
+34.0,Wake-Up Slap,Fighting,,70,100
+37.0,Endure,Normal,,—,—
+40.0,Close Combat,Fighting,,120,100
+43.0,Reversal,Fighting,,—,100
+46.0,Heavy Slam,Steel,,—,100

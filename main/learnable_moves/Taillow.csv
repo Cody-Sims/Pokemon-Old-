@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Peck,Flying,,35,100
+5.0,Focus Energy,Normal,,—,—
+9.0,Quick Attack,Normal,,40,100
+13.0,Wing Attack,Flying,,60,100
+17.0,Double Team,Normal,,—,—
+21.0,Aerial Ace,Flying,,60,∞
+25.0,Quick Guard,Fighting,,—,—
+29.0,Agility,Psychic,,—,—
+33.0,Air Slash,Flying,,75,95
+37.0,Endeavor,Normal,,—,100
+41.0,Brave Bird,Flying,,120,100
+45.0,Reversal,Fighting,,—,100

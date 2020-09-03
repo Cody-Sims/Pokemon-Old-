@@ -1,0 +1,22 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Astonish,Ghost,,30,100
+1.0,Bite,Dark,,60,100
+1.0,Crunch,Dark,,80,100
+1.0,Destiny Bond,Ghost,,—,—
+1.0,Double Team,Normal,,—,—
+1.0,Headbutt,Normal,,70,100
+1.0,Hex,Ghost,,65,100
+1.0,Ice Fang,Ice,,65,95
+1.0,Leer,Normal,,—,100
+1.0,Powder Snow,Ice,,40,100
+1.0,Protect,Normal,,—,—
+15.0,Ice Shard,Ice,,40,100
+20.0,Draining Kiss,Fairy,,50,100
+25.0,Icy Wind,Ice,,55,95
+30.0,Frost Breath,Ice,,60,90
+35.0,Confuse Ray,Ghost,,—,100
+40.0,Hail,Ice,,—,—
+47.0,Will-O-Wisp,Fire,,—,85
+54.0,Aurora Veil,Ice,,—,—
+61.0,Shadow Ball,Ghost,,80,100
+68.0,Blizzard,Ice,,110,70

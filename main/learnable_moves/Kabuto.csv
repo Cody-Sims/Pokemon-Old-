@@ -1,0 +1,10 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Scratch,Normal,,40,100
+6.0,Harden,Normal,,—,—
+12.0,Leer,Normal,,—,100
+18.0,Absorb,Grass,,20,100
+24.0,Aqua Jet,Water,,40,100
+30.0,Rock Throw,Rock,,50,90
+36.0,Sand Attack,Ground,,—,100
+42.0,Rock Slide,Rock,,75,90
+48.0,Leech Life,Bug,,80,100

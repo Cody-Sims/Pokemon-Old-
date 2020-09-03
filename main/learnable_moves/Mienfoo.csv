@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Detect,Fighting,,—,—
+1.0,Pound,Normal,,40,100
+5.0,Fake Out,Normal,,40,100
+10.0,Reversal,Fighting,,—,100
+15.0,Fury Swipes,Normal,,18,80
+20.0,Quick Guard,Fighting,,—,—
+25.0,Force Palm,Fighting,,60,100
+30.0,U-turn,Bug,,70,100
+35.0,Drain Punch,Fighting,,75,100
+40.0,Hone Claws,Dark,,—,—
+45.0,Aura Sphere,Fighting,,80,∞
+51.0,Bounce,Flying,,85,85
+55.0,Calm Mind,Psychic,,—,—
+60.0,High Jump Kick,Fighting,,130,90

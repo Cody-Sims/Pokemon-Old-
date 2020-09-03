@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Agility,Psychic,,—,—
+1.0,Air Slash,Flying,,75,95
+1.0,Growl,Normal,,—,100
+1.0,Protect,Normal,,—,—
+1.0,Quick Attack,Normal,,40,100
+1.0,Soak,Water,,—,100
+1.0,Supersonic,Normal,,—,55
+1.0,Tailwind,Flying,,—,—
+1.0,Water Gun,Water,,40,100
+15.0,Wing Attack,Flying,,60,100
+20.0,Water Pulse,Water,,60,100
+28.0,Spit Up,Normal,,—,100
+28.0,Stockpile,Normal,,—,—
+28.0,Swallow,Normal,,—,—
+34.0,Fling,Dark,,—,100
+41.0,Mist,Ice,,—,—
+48.0,Roost,Flying,,—,—
+55.0,Hurricane,Flying,,110,70
+62.0,Hydro Pump,Water,,110,80

@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Sand Attack,Ground,,—,100
+1.0,Scratch,Normal,,40,100
+5.0,Harden,Normal,,—,—
+10.0,False Swipe,Normal,,40,100
+15.0,Mud-Slap,Ground,,20,100
+21.0,Absorb,Grass,,20,100
+25.0,Metal Claw,Steel,,50,95
+30.0,Fury Swipes,Normal,,18,80
+35.0,Mind Reader,Normal,,—,—
+40.0,Dig,Ground,,80,100

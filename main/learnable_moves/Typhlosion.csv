@@ -1,0 +1,22 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Double-Edge,Normal,,120,100
+1.0,Ember,Fire,,40,100
+1.0,Eruption,Fire,,150,100
+1.0,Gyro Ball,Steel,,—,100
+1.0,Leer,Normal,,—,100
+1.0,Smokescreen,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+6.0,Smokescreen,Normal,,—,100
+10.0,Ember,Fire,,40,100
+13.0,Quick Attack,Normal,,40,100
+20.0,Flame Wheel,Fire,,60,100
+24.0,Defense Curl,Normal,,—,—
+31.0,Swift,Normal,,60,∞
+35.0,Flame Charge,Fire,,50,100
+43.0,Lava Plume,Fire,,80,100
+48.0,Flamethrower,Fire,,90,100
+56.0,Inferno,Fire,,100,50
+61.0,Rollout,Rock,,30,90
+69.0,Double-Edge,Normal,,120,100
+74.0,Burn Up,Fire,,130,100
+82.0,Eruption,Fire,,150,100

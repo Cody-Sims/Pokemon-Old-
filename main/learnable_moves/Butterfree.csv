@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bug Bite,Bug,,60,100
+1.0,Gust,Flying,,40,100
+1.0,Harden,Normal,,—,—
+1.0,String Shot,Bug,,—,95
+1.0,Tackle,Normal,,40,100
+4.0,Supersonic,Normal,,—,55
+8.0,Confusion,Psychic,,50,100
+12.0,Poison Powder,Poison,,—,75
+12.0,Sleep Powder,Grass,,—,75
+12.0,Stun Spore,Grass,,—,75
+16.0,Psybeam,Psychic,,65,100
+20.0,Whirlwind,Normal,,—,—
+24.0,Air Slash,Flying,,75,95
+28.0,Safeguard,Normal,,—,—
+32.0,Bug Buzz,Bug,,90,100
+36.0,Tailwind,Flying,,—,—
+40.0,Rage Powder,Bug,,—,—
+44.0,Quiver Dance,Bug,,—,—

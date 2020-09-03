@@ -1,0 +1,20 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Astonish,Ghost,,30,100
+1.0,Lick,Ghost,,30,100
+1.0,Scratch,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Thief,Dark,,60,100
+4.0,Bind,Normal,,15,85
+7.0,Shadow Sneak,Ghost,,40,100
+10.0,Feint,Normal,,30,100
+13.0,Fury Swipes,Normal,,18,80
+16.0,Feint Attack,Dark,,60,∞
+18.0,Psybeam,Psychic,,65,100
+21.0,Ancient Power,Rock,,60,100
+25.0,Slash,Normal,,70,100
+30.0,Camouflage,Normal,,—,—
+33.0,Shadow Claw,Ghost,,70,100
+38.0,Screech,Normal,,—,85
+42.0,Substitute,Normal,,—,—
+46.0,Sucker Punch,Dark,,70,100
+50.0,Synchronoise,Psychic,,120,100

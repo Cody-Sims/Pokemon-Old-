@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bite,Dark,,60,100
+1.0,Double Hit,Normal,,35,90
+1.0,Dragon Breath,Dragon,,60,100
+1.0,Focus Energy,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+12.0,Roar,Normal,,—,—
+16.0,Assurance,Dark,,60,100
+20.0,Headbutt,Normal,,70,100
+24.0,Work Up,Normal,,—,—
+28.0,Slam,Normal,,80,75
+32.0,Crunch,Dark,,80,100
+36.0,Scary Face,Normal,,—,100
+40.0,Dragon Pulse,Dragon,,85,100
+44.0,Body Slam,Normal,,85,100
+48.0,Hyper Voice,Normal,,90,100
+54.0,Dragon Rush,Dragon,,100,75
+60.0,Nasty Plot,Dark,,—,—
+66.0,Outrage,Dragon,,120,100

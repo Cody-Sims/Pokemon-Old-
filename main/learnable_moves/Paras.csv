@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Scratch,Normal,,40,100
+2.0,Sleep Powder,Grass,,—,75
+4.0,Stun Spore,Grass,,—,75
+6.0,Poison Powder,Poison,,—,75
+9.0,Absorb,Grass,,20,100
+12.0,Growth,Normal,,—,—
+15.0,Fury Swipes,Normal,,18,80
+19.0,Slash,Normal,,70,100
+23.0,Leech Life,Bug,,80,100
+27.0,Spore,Grass,,—,100
+31.0,X-Scissor,Bug,,80,100

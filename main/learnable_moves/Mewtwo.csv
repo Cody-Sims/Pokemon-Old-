@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Disable,Normal,,—,100
+1.0,Laser Focus,Normal,,—,—
+1.0,Life Dew,Water,,—,—
+1.0,Swift,Normal,,60,∞
+8.0,Ancient Power,Rock,,60,100
+16.0,Psycho Cut,Psychic,,70,100
+24.0,Safeguard,Normal,,—,—
+32.0,Amnesia,Psychic,,—,—
+40.0,Aura Sphere,Fighting,,80,∞
+48.0,Psychic,Psychic,,90,100
+56.0,Guard Swap,Psychic,,—,—
+56.0,Power Swap,Psychic,,—,—
+64.0,Mist,Ice,,—,—
+72.0,Psystrike,Psychic,,100,100
+80.0,Recover,Normal,,—,—
+88.0,Future Sight,Psychic,,120,100

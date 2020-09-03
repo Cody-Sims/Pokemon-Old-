@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bulldoze,Ground,,60,100
+1.0,Charge Beam,Electric,,50,90
+1.0,Explosion,Normal,,250,100
+1.0,Rock Throw,Rock,,50,90
+1.0,Stomp,Normal,,65,100
+7.0,Rock Throw,Rock,,50,90
+13.0,Charge Beam,Electric,,50,90
+19.0,Bulldoze,Ground,,60,100
+25.0,Curse,Ghost,,—,—
+31.0,Ancient Power,Rock,,60,100
+37.0,Iron Defense,Steel,,—,—
+43.0,Stone Edge,Rock,,100,80
+49.0,Hammer Arm,Fighting,,100,90
+55.0,Lock-On,Normal,,—,—
+55.0,Zap Cannon,Electric,,120,50
+61.0,Superpower,Fighting,,120,100
+67.0,Hyper Beam,Normal,,150,90

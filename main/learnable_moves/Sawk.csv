@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Rock Smash,Fighting,,40,100
+5.0,Focus Energy,Normal,,—,—
+10.0,Double Kick,Fighting,,30,100
+15.0,Quick Guard,Fighting,,—,—
+20.0,Low Sweep,Fighting,,65,100
+25.0,Bulk Up,Fighting,,—,—
+30.0,Retaliate,Normal,,70,100
+35.0,Brick Break,Fighting,,75,100
+40.0,Counter,Fighting,,—,100
+45.0,Endure,Normal,,—,—
+50.0,Reversal,Fighting,,—,100
+55.0,Close Combat,Fighting,,120,100

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Scratch,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+4.0,Sand Attack,Ground,,—,100
+8.0,Astonish,Ghost,,30,100
+11.0,Baton Pass,Normal,,—,—
+15.0,Tickle,Normal,,—,100
+18.0,Fury Swipes,Normal,,18,80
+22.0,Swift,Normal,,60,∞
+25.0,Screech,Normal,,—,85
+29.0,Agility,Psychic,,—,—
+32.0,Double Hit,Normal,,35,90
+36.0,Fling,Dark,,—,100
+39.0,Nasty Plot,Dark,,—,—
+43.0,Last Resort,Normal,,140,100

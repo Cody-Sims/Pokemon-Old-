@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Foresight,Normal,,—,—
+1.0,Tackle,Normal,,40,100
+6.0,Quick Attack,Normal,,40,100
+11.0,Double Team,Normal,,—,—
+14.0,Sonic Boom,Normal,,—,90
+17.0,Detect,Fighting,,—,—
+22.0,Supersonic,Normal,,—,55
+27.0,Uproar,Normal,,90,100
+30.0,Pursuit,Dark,,40,100
+33.0,Ancient Power,Rock,,60,100
+38.0,Hypnosis,Psychic,,—,60
+43.0,Wing Attack,Flying,,60,100
+46.0,Screech,Normal,,—,85
+49.0,U-turn,Bug,,70,100
+54.0,Air Slash,Flying,,75,95
+57.0,Bug Buzz,Bug,,90,100

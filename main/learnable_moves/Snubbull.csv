@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Charm,Fairy,,—,100
+1.0,Fire Fang,Fire,,65,95
+1.0,Ice Fang,Ice,,65,95
+1.0,Scary Face,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Thunder Fang,Electric,,65,95
+7.0,Bite,Dark,,60,100
+13.0,Lick,Ghost,,30,100
+19.0,Headbutt,Normal,,70,100
+25.0,Roar,Normal,,—,—
+31.0,Rage,Normal,,20,100
+37.0,Play Rough,Fairy,,90,90
+43.0,Payback,Dark,,50,100
+49.0,Crunch,Dark,,80,100

@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Astonish,Ghost,,30,100
+1.0,Fake Out,Normal,,40,100
+1.0,Flail,Normal,,—,100
+1.0,Growl,Normal,,—,100
+1.0,Knock Off,Dark,,65,100
+1.0,Teeter Dance,Normal,,—,100
+1.0,Water Gun,Water,,40,100
+9.0,Mist,Ice,,—,—
+12.0,Mega Drain,Grass,,40,100
+18.0,Fury Swipes,Normal,,18,80
+24.0,Bubble Beam,Water,,65,100
+30.0,Nature Power,Normal,,—,—
+36.0,Giga Drain,Grass,,75,100
+43.0,Rain Dance,Water,,—,—
+50.0,Zen Headbutt,Psychic,,80,90
+57.0,Energy Ball,Grass,,90,100
+64.0,Hydro Pump,Water,,110,80

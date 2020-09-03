@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Water Gun,Water,,40,100
+1.0,Water Sport,Water,,—,—
+5.0,Tail Whip,Normal,,—,100
+7.0,Water Gun,Water,,40,100
+11.0,Water Sport,Water,,—,—
+13.0,Focus Energy,Normal,,—,—
+18.0,Razor Shell,Water,,75,95
+21.0,Fury Cutter,Bug,,40,95
+26.0,Water Pulse,Water,,60,100
+29.0,Revenge,Fighting,,60,100
+34.0,Aqua Jet,Water,,40,100
+37.0,Encore,Normal,,—,100
+42.0,Aqua Tail,Water,,90,90
+45.0,Retaliate,Normal,,70,100
+50.0,Swords Dance,Normal,,—,—
+53.0,Hydro Pump,Water,,110,80

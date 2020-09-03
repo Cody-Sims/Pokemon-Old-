@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Acid,Poison,,40,100
+1.0,Drain Punch,Fighting,,75,100
+1.0,Echoed Voice,Normal,,40,100
+1.0,Gastro Acid,Poison,,—,100
+1.0,Growl,Normal,,—,100
+1.0,Supersonic,Normal,,—,55
+12.0,Mud Shot,Ground,,55,95
+16.0,Round,Normal,,60,100
+20.0,Bubble Beam,Water,,65,100
+24.0,Flail,Normal,,—,100
+30.0,Uproar,Normal,,90,100
+39.0,Aqua Ring,Water,,—,—
+46.0,Hyper Voice,Normal,,90,100
+54.0,Muddy Water,Water,,90,85
+62.0,Rain Dance,Water,,—,—
+70.0,Hydro Pump,Water,,110,80

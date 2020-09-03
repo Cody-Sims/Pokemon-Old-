@@ -1,0 +1,11 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Pound,Normal,,40,100.0
+6.0,Lick,Ghost,,30,100.0
+12.0,Confusion,Psychic,,50,100.0
+18.0,Screech,Normal,,—,85.0
+22.0,Double Slap,Normal,,15,85.0
+26.0,Ice Punch,Ice,,75,100.0
+30.0,Body Slam,Normal,,85,100.0
+35.0,Lovely Kiss,Normal,,—,75.0
+40.0,Psychic,Psychic,,90,100.0
+45.0,Blizzard,Ice,,110,70.0

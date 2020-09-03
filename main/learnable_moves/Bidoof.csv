@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+5.0,Defense Curl,Normal,,—,—
+9.0,Rollout,Rock,,30,90
+13.0,Headbutt,Normal,,70,100
+17.0,Hyper Fang,Normal,,80,90
+21.0,Yawn,Normal,,—,—
+25.0,Crunch,Dark,,80,100
+29.0,Take Down,Normal,,90,85
+33.0,Super Fang,Normal,,—,90
+37.0,Swords Dance,Normal,,—,—
+41.0,Amnesia,Psychic,,—,—
+45.0,Superpower,Fighting,,120,100
+49.0,Curse,Ghost,,—,—
