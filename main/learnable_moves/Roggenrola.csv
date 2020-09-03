@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Sand Attack,Ground,,—,100
+1.0,Tackle,Normal,,40,100
+4.0,Harden,Normal,,—,—
+8.0,Stealth Rock,Rock,,—,—
+12.0,Mud-Slap,Ground,,20,100
+16.0,Smack Down,Rock,,50,100
+20.0,Iron Defense,Steel,,—,—
+24.0,Headbutt,Normal,,70,100
+28.0,Rock Slide,Rock,,75,90
+32.0,Rock Blast,Rock,,25,90
+36.0,Sandstorm,Rock,,—,—
+40.0,Stone Edge,Rock,,100,80
+44.0,Explosion,Normal,,250,100

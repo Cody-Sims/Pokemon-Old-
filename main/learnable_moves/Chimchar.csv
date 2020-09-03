@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Scratch,Normal,,40,100
+7.0,Ember,Fire,,40,100
+9.0,Taunt,Dark,,—,100
+15.0,Fury Swipes,Normal,,18,80
+17.0,Flame Wheel,Fire,,60,100
+23.0,Nasty Plot,Dark,,—,—
+25.0,Torment,Dark,,—,100
+31.0,Facade,Normal,,70,100
+33.0,Fire Spin,Fire,,35,85
+39.0,Acrobatics,Flying,,55,100
+41.0,Slack Off,Normal,,—,—
+47.0,Flamethrower,Fire,,90,100

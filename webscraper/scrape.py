@@ -5,6 +5,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+
 def create_data(file_name):
     file = open(file_name, "r")
     data = list(csv.reader(file))
@@ -35,7 +36,6 @@ def main():
         destination = path
         source = os.path.join(r"C:\Users\codys\PycharmProjects\Pokemon\webscraper", file)
         shutil.move(source, destination)
-
 
 
 def parse_html_table(table):

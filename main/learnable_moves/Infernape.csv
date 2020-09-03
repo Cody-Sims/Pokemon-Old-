@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Close Combat,Fighting,,120,100
+1.0,Ember,Fire,,40,100
+1.0,Flare Blitz,Fire,,120,100
+1.0,Leer,Normal,,—,100
+1.0,Mach Punch,Fighting,,40,100
+1.0,Scratch,Normal,,40,100
+1.0,Taunt,Dark,,—,100
+7.0,Ember,Fire,,40,100
+9.0,Taunt,Dark,,—,100
+16.0,Fury Swipes,Normal,,18,80
+19.0,Flame Wheel,Fire,,60,100
+26.0,Feint,Normal,,30,100
+29.0,Punishment,Dark,,—,100
+42.0,Fire Spin,Fire,,35,85
+52.0,Acrobatics,Flying,,55,100
+58.0,Calm Mind,Psychic,,—,—
+68.0,Flare Blitz,Fire,,120,100

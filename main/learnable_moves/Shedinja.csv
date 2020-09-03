@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Dig,Ground,,80,100
+1.0,False Swipe,Normal,,40,100
+1.0,Grudge,Ghost,,—,—
+1.0,Harden,Normal,,—,—
+1.0,Metal Claw,Steel,,50,95
+1.0,Mud-Slap,Ground,,20,100
+1.0,Sand Attack,Ground,,—,100
+1.0,Scratch,Normal,,40,100
+1.0,Shadow Claw,Ghost,,70,100
+15.0,Confuse Ray,Ghost,,—,100
+23.0,Absorb,Grass,,20,100
+29.0,Shadow Sneak,Ghost,,40,100
+36.0,Fury Swipes,Normal,,18,80
+43.0,Mind Reader,Normal,,—,—
+50.0,Shadow Ball,Ghost,,80,100
+57.0,Spite,Ghost,,—,100
+64.0,Phantom Force,Ghost,,90,100

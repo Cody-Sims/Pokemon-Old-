@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Mud-Slap,Ground,,20,100
+1.0,Poison Sting,Poison,,15,100
+4.0,Astonish,Ghost,,30,100
+8.0,Taunt,Dark,,—,100
+12.0,Flatter,Dark,,—,100
+16.0,Revenge,Fighting,,60,100
+20.0,Venoshock,Poison,,65,100
+24.0,Sucker Punch,Dark,,70,100
+28.0,Swagger,Normal,,—,85
+32.0,Poison Jab,Poison,,80,100
+36.0,Toxic,Poison,,—,90
+40.0,Nasty Plot,Dark,,—,—
+44.0,Sludge Bomb,Poison,,90,100
+48.0,Belch,Poison,,120,90

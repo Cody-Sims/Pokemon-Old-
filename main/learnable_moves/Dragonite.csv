@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Aqua Jet,Water,,40,100
+1.0,Dragon Rage,Dragon,,—,100
+1.0,Fire Punch,Fire,,75,100
+1.0,Leer,Normal,,—,100
+1.0,Mist,Ice,,—,—
+1.0,Thunder Punch,Electric,,75,100
+1.0,Thunder Wave,Electric,,—,90
+1.0,Wing Attack,Flying,,60,100
+1.0,Wrap,Normal,,15,90
+7.0,Thunder Wave,Electric,,—,90
+14.0,Dragon Rage,Dragon,,—,100
+21.0,Agility,Psychic,,—,—
+28.0,Dragon Tail,Dragon,,60,90
+40.0,Slam,Normal,,80,75
+52.0,Outrage,Dragon,,120,100
+70.0,Hyper Beam,Normal,,150,90
+88.0,Roost,Flying,,—,—

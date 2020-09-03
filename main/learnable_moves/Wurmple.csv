@@ -1,0 +1,5 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,String Shot,Bug,,—,95.0
+1.0,Tackle,Normal,,40,100.0
+5.0,Poison Sting,Poison,,15,100.0
+15.0,Bug Bite,Bug,,60,100.0

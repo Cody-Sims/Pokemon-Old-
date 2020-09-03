@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Mud-Slap,Ground,,20,100
+1.0,Water Gun,Water,,40,100
+5.0,Harden,Normal,,—,—
+10.0,Recover,Normal,,—,—
+15.0,Water Pulse,Water,,60,100
+20.0,Ancient Power,Rock,,60,100
+25.0,Body Slam,Normal,,85,100
+31.0,Muddy Water,Water,,90,85
+35.0,Earth Power,Ground,,90,100
+40.0,Rain Dance,Water,,—,—
+45.0,Memento,Dark,,—,100

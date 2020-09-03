@@ -1,0 +1,25 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Baton Pass,Normal,,—,—
+1.0,Bite,Dark,,60,100
+1.0,Charm,Fairy,,—,100
+1.0,Copycat,Normal,,—,—
+1.0,Covet,Normal,,60,100
+1.0,Double-Edge,Normal,,120,100
+1.0,Growl,Normal,,—,100
+1.0,Helping Hand,Normal,,—,—
+1.0,Swift,Normal,,60,∞
+1.0,Tackle,Normal,,40,100
+1.0,Tail Whip,Normal,,—,100
+1.0,Take Down,Normal,,90,85
+1.0,Water Gun,Water,,40,100
+5.0,Sand Attack,Ground,,—,100
+10.0,Quick Attack,Normal,,40,100
+15.0,Baby-Doll Eyes,Fairy,,—,100
+20.0,Haze,Ice,,—,—
+25.0,Water Pulse,Water,,60,100
+30.0,Aurora Beam,Ice,,65,100
+35.0,Aqua Ring,Water,,—,—
+40.0,Muddy Water,Water,,90,85
+45.0,Acid Armor,Poison,,—,—
+50.0,Hydro Pump,Water,,110,80
+55.0,Last Resort,Normal,,140,100

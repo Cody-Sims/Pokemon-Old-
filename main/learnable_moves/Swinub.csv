@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Mud-Slap,Ground,,20,100
+1.0,Tackle,Normal,,40,100
+5.0,Powder Snow,Ice,,40,100
+10.0,Flail,Normal,,—,100
+15.0,Ice Shard,Ice,,40,100
+20.0,Mist,Ice,,—,—
+25.0,Endure,Normal,,—,—
+30.0,Icy Wind,Ice,,55,95
+35.0,Amnesia,Psychic,,—,—
+40.0,Take Down,Normal,,90,85
+45.0,Earthquake,Ground,,100,100
+50.0,Blizzard,Ice,,110,70

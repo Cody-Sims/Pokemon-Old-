@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Pound,Normal,,40,100
+4.0,Low Kick,Fighting,,—,100
+8.0,Rock Throw,Rock,,50,90
+12.0,Focus Energy,Normal,,—,—
+16.0,Bulk Up,Fighting,,—,—
+20.0,Rock Slide,Rock,,75,90
+24.0,Slam,Normal,,80,75
+28.0,Scary Face,Normal,,—,100
+32.0,Dynamic Punch,Fighting,,100,50
+36.0,Hammer Arm,Fighting,,100,90
+40.0,Stone Edge,Rock,,100,80
+44.0,Superpower,Fighting,,120,100
+48.0,Focus Punch,Fighting,,150,100

@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confuse Ray,Ghost,,—,100
+1.0,Curse,Ghost,,—,—
+1.0,Pursuit,Dark,,40,100
+1.0,Shadow Sneak,Ghost,,40,100
+1.0,Spite,Ghost,,—,100
+7.0,Feint Attack,Dark,,60,∞
+13.0,Hypnosis,Psychic,,—,60
+19.0,Dream Eater,Psychic,,100,100
+25.0,Ominous Wind,Ghost,,60,100
+31.0,Sucker Punch,Dark,,70,100
+37.0,Nasty Plot,Dark,,—,—
+43.0,Memento,Dark,,—,100
+49.0,Dark Pulse,Dark,,80,100

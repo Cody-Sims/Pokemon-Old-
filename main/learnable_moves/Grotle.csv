@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Tackle,Normal,,40,100
+1.0,Withdraw,Water,,—,—
+5.0,Withdraw,Water,,—,—
+9.0,Absorb,Grass,,20,100
+13.0,Razor Leaf,Grass,,55,95
+17.0,Curse,Ghost,,—,—
+22.0,Bite,Dark,,60,100
+27.0,Mega Drain,Grass,,40,100
+32.0,Leech Seed,Grass,,—,90
+37.0,Synthesis,Grass,,—,—
+42.0,Crunch,Dark,,80,100
+47.0,Giga Drain,Grass,,75,100
+52.0,Leaf Storm,Grass,,130,90

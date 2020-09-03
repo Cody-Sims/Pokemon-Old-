@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confuse Ray,Ghost,,—,100
+1.0,Crush Grip,Normal,,—,100
+1.0,Dizzy Punch,Normal,,70,100
+1.0,Fire Punch,Fire,,75,100
+1.0,Foresight,Normal,,—,—
+1.0,Heavy Slam,Steel,,—,100
+1.0,Ice Punch,Ice,,75,100
+1.0,Knock Off,Dark,,65,100
+1.0,Thunder Punch,Electric,,75,100
+25.0,Revenge,Fighting,,60,100
+40.0,Wide Guard,Rock,,—,—
+50.0,Zen Headbutt,Psychic,,80,90
+65.0,Payback,Dark,,50,100
+75.0,Crush Grip,Normal,,—,100
+90.0,Heavy Slam,Steel,,—,100
+100.0,Giga Impact,Normal,,150,90

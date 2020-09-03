@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Water Gun,Water,,40,100
+4.0,Harden,Normal,,—,—
+8.0,Metal Claw,Steel,,50,95
+12.0,Mud Shot,Ground,,55,95
+16.0,Protect,Normal,,—,—
+20.0,Bubble Beam,Water,,65,100
+24.0,Stomp,Normal,,65,100
+29.0,Flail,Normal,,—,100
+32.0,Razor Shell,Water,,75,95
+36.0,Slam,Normal,,80,75
+40.0,Swords Dance,Normal,,—,—
+44.0,Crabhammer,Water,,100,90
+48.0,Guillotine,Normal,,—,30

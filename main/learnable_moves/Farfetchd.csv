@@ -1,0 +1,16 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Peck,Flying,,35,100
+1.0,Sand Attack,Ground,,—,100
+5.0,Leer,Normal,,—,100
+10.0,Fury Cutter,Bug,,40,95
+15.0,Cut,Normal,,50,95
+20.0,Aerial Ace,Flying,,60,∞
+25.0,Air Cutter,Flying,,60,95
+30.0,Knock Off,Dark,,65,100
+35.0,False Swipe,Normal,,40,100
+40.0,Slash,Normal,,70,100
+45.0,Swords Dance,Normal,,—,—
+50.0,Air Slash,Flying,,75,95
+55.0,Leaf Blade,Grass,,90,100
+60.0,Agility,Psychic,,—,—
+65.0,Brave Bird,Flying,,120,100

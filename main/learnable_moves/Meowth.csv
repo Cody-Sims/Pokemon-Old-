@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Fake Out,Normal,,40,100
+1.0,Growl,Normal,,—,100
+4.0,Feint,Normal,,30,100
+8.0,Scratch,Normal,,40,100
+12.0,Pay Day,Normal,,40,100
+16.0,Bite,Dark,,60,100
+20.0,Taunt,Dark,,—,100
+24.0,Assurance,Dark,,60,100
+29.0,Fury Swipes,Normal,,18,80
+32.0,Screech,Normal,,—,85
+36.0,Slash,Normal,,70,100
+40.0,Nasty Plot,Dark,,—,—
+44.0,Play Rough,Fairy,,90,90

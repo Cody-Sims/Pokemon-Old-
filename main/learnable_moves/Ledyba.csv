@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+5.0,Supersonic,Normal,,—,55
+8.0,Swift,Normal,,60,∞
+12.0,Light Screen,Psychic,,—,—
+12.0,Reflect,Psychic,,—,—
+12.0,Safeguard,Normal,,—,—
+15.0,Mach Punch,Fighting,,40,100
+19.0,Silver Wind,Bug,,60,100
+22.0,Comet Punch,Normal,,18,85
+26.0,Baton Pass,Normal,,—,—
+29.0,Agility,Psychic,,—,—
+33.0,Bug Buzz,Bug,,90,100
+36.0,Air Slash,Flying,,75,95
+40.0,Double-Edge,Normal,,120,100

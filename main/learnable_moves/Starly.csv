@@ -1,0 +1,13 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+5.0,Quick Attack,Normal,,40,100
+9.0,Wing Attack,Flying,,60,100
+13.0,Double Team,Normal,,—,—
+17.0,Endeavor,Normal,,—,100
+21.0,Whirlwind,Normal,,—,—
+25.0,Aerial Ace,Flying,,60,∞
+29.0,Take Down,Normal,,90,85
+33.0,Agility,Psychic,,—,—
+37.0,Brave Bird,Flying,,120,100
+41.0,Final Gambit,Fighting,,—,100

@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Gust,Flying,,40,100
+1.0,Leer,Normal,,—,100
+1.0,Quick Attack,Normal,,40,100
+12.0,Taunt,Dark,,—,100
+16.0,Air Cutter,Flying,,60,95
+20.0,Swagger,Normal,,—,85
+26.0,Feather Dance,Flying,,—,100
+36.0,Detect,Fighting,,—,—
+42.0,Air Slash,Flying,,75,95
+50.0,Roost,Flying,,—,—
+58.0,Tailwind,Flying,,—,—
+66.0,Sky Attack,Flying,,140,90

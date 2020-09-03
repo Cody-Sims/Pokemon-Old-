@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Leer,Normal,,—,100
+1.0,Pound,Normal,,40,100
+5.0,Absorb,Grass,,20,100
+9.0,Quick Attack,Normal,,40,100
+13.0,Mega Drain,Grass,,40,100
+17.0,Pursuit,Dark,,40,100
+21.0,Giga Drain,Grass,,75,100
+25.0,Agility,Psychic,,—,—
+29.0,Slam,Normal,,80,75
+33.0,Detect,Fighting,,—,—
+37.0,Energy Ball,Grass,,90,100
+41.0,Quick Guard,Fighting,,—,—
+45.0,Endeavor,Normal,,—,100
+49.0,Screech,Normal,,—,85

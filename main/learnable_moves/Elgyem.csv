@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Confusion,Psychic,,50,100
+1.0,Growl,Normal,,—,100
+6.0,Imprison,Psychic,,—,—
+12.0,Teleport,Psychic,,—,—
+18.0,Psybeam,Psychic,,65,100
+24.0,Guard Split,Psychic,,—,—
+24.0,Power Split,Psychic,,—,—
+30.0,Headbutt,Normal,,70,100
+36.0,Zen Headbutt,Psychic,,80,90
+43.0,Recover,Normal,,—,—
+48.0,Calm Mind,Psychic,,—,—
+54.0,Wonder Room,Psychic,,—,—
+60.0,Psychic,Psychic,,90,100

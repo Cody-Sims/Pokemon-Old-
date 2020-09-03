@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+5.0,Rollout,Rock,,30,90
+10.0,Defense Curl,Normal,,—,—
+15.0,Stomp,Normal,,65,100
+20.0,Heal Bell,Normal,,—,—
+25.0,Headbutt,Normal,,70,100
+30.0,Zen Headbutt,Psychic,,80,90
+35.0,Milk Drink,Normal,,—,—
+40.0,Body Slam,Normal,,85,100
+45.0,Play Rough,Fairy,,90,90
+50.0,Charm,Fairy,,—,100
+55.0,High Horsepower,Ground,,95,95

@@ -1,0 +1,21 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Charm,Fairy,,—,100
+1.0,Growl,Normal,,—,100
+1.0,Nasty Plot,Dark,,—,—
+1.0,Nuzzle,Electric,,20,100
+1.0,Play Nice,Normal,,—,—
+1.0,Quick Attack,Normal,,40,100
+1.0,Sweet Kiss,Fairy,,—,75
+1.0,Tail Whip,Normal,,—,100
+1.0,Thunder Shock,Electric,,40,100
+4.0,Thunder Wave,Electric,,—,90
+8.0,Double Team,Normal,,—,—
+12.0,Electro Ball,Electric,,—,100
+16.0,Feint,Normal,,30,100
+20.0,Spark,Electric,,65,100
+24.0,Agility,Psychic,,—,—
+28.0,Slam,Normal,,80,75
+32.0,Discharge,Electric,,80,100
+36.0,Thunderbolt,Electric,,90,100
+40.0,Light Screen,Psychic,,—,—
+44.0,Thunder,Electric,,110,70

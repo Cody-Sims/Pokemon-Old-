@@ -1,0 +1,23 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Splash,Normal,,—,—
+1.0,Synthesis,Grass,,—,—
+1.0,Tail Whip,Normal,,—,100
+4.0,Synthesis,Grass,,—,—
+6.0,Tail Whip,Normal,,—,100
+8.0,Tackle,Normal,,40,100
+10.0,Fairy Wind,Fairy,,40,100
+12.0,Poison Powder,Poison,,—,75
+14.0,Stun Spore,Grass,,—,75
+16.0,Sleep Powder,Grass,,—,75
+20.0,Bullet Seed,Grass,,25,100
+24.0,Leech Seed,Grass,,—,90
+29.0,Mega Drain,Grass,,40,100
+34.0,Acrobatics,Flying,,55,100
+39.0,Rage Powder,Bug,,—,—
+44.0,Cotton Spore,Grass,,—,100
+49.0,U-turn,Bug,,70,100
+54.0,Worry Seed,Grass,,—,100
+59.0,Giga Drain,Grass,,75,100
+64.0,Bounce,Flying,,85,85
+69.0,Memento,Dark,,—,100

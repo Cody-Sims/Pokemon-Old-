@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Scratch,Normal,,40,100
+1.0,Yawn,Normal,,—,—
+6.0,Encore,Normal,,—,100
+9.0,Slack Off,Normal,,—,—
+14.0,Feint Attack,Dark,,60,∞
+17.0,Amnesia,Psychic,,—,—
+22.0,Covet,Normal,,60,100
+25.0,Chip Away,Normal,,70,100
+30.0,Counter,Fighting,,—,100
+33.0,Flail,Normal,,—,100
+38.0,Play Rough,Fairy,,90,90

@@ -1,0 +1,15 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Helping Hand,Normal,,—,—
+1.0,Leer,Normal,,—,100
+1.0,Quick Attack,Normal,,40,100
+1.0,Work Up,Normal,,—,—
+7.0,Smack Down,Rock,,50,100
+14.0,Quick Guard,Fighting,,—,—
+21.0,Double Kick,Fighting,,30,100
+28.0,Retaliate,Normal,,70,100
+35.0,Rock Slide,Rock,,75,90
+42.0,Take Down,Normal,,90,85
+49.0,Sacred Sword,Fighting,,90,100
+56.0,Swords Dance,Normal,,—,—
+63.0,Stone Edge,Rock,,100,80
+70.0,Close Combat,Fighting,,120,100

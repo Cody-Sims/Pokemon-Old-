@@ -1,0 +1,23 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Acid,Poison,,40,100
+1.0,Acid Armor,Poison,,—,—
+1.0,Acid Spray,Poison,,40,100
+1.0,Body Slam,Normal,,85,100
+1.0,Curse,Ghost,,—,—
+1.0,Double Team,Normal,,—,—
+1.0,Guard Swap,Psychic,,—,—
+1.0,Quick Attack,Normal,,40,100
+1.0,Water Shuriken,Water,,15,100
+1.0,Yawn,Normal,,—,—
+12.0,Mega Drain,Grass,,40,100
+16.0,Struggle Bug,Bug,,50,100
+20.0,Swift,Normal,,60,∞
+24.0,Agility,Psychic,,—,—
+28.0,Giga Drain,Grass,,75,100
+32.0,Power Swap,Psychic,,—,—
+36.0,U-turn,Bug,,70,100
+40.0,Recover,Normal,,—,—
+44.0,Bug Buzz,Bug,,90,100
+48.0,Final Gambit,Fighting,,—,100
+52.0,Toxic,Poison,,—,90

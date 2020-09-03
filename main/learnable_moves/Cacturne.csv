@@ -1,0 +1,23 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Absorb,Grass,,20,100
+1.0,Destiny Bond,Ghost,,—,—
+1.0,Growth,Normal,,—,—
+1.0,Leer,Normal,,—,100
+1.0,Poison Sting,Poison,,15,100
+1.0,Revenge,Fighting,,60,100
+1.0,Spiky Shield,Grass,,—,—
+4.0,Absorb,Grass,,20,100
+7.0,Growth,Normal,,—,—
+10.0,Leech Seed,Grass,,—,90
+13.0,Sand Attack,Ground,,—,100
+16.0,Needle Arm,Grass,,60,100
+19.0,Feint Attack,Dark,,60,∞
+22.0,Ingrain,Grass,,—,—
+26.0,Payback,Dark,,50,100
+30.0,Spikes,Ground,,—,—
+35.0,Sucker Punch,Dark,,70,100
+38.0,Pin Missile,Bug,,25,95
+44.0,Energy Ball,Grass,,90,100
+49.0,Cotton Spore,Grass,,—,100
+54.0,Sandstorm,Rock,,—,—
+59.0,Destiny Bond,Ghost,,—,—

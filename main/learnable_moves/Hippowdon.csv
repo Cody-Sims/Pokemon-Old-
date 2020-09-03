@@ -1,0 +1,19 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bite,Dark,,60,100
+1.0,Fire Fang,Fire,,65,95
+1.0,Ice Fang,Ice,,65,95
+1.0,Sand Attack,Ground,,—,100
+1.0,Tackle,Normal,,40,100
+1.0,Thunder Fang,Electric,,65,95
+1.0,Yawn,Normal,,—,—
+12.0,Sand Tomb,Ground,,35,85
+16.0,Dig,Ground,,80,100
+20.0,Crunch,Dark,,80,100
+24.0,Sandstorm,Rock,,—,—
+28.0,Take Down,Normal,,90,85
+32.0,Roar,Normal,,—,—
+38.0,Rest,Psychic,,—,—
+44.0,Earthquake,Ground,,100,100
+50.0,Double-Edge,Normal,,120,100
+56.0,Fissure,Ground,,—,30
+62.0,Slack Off,Normal,,—,—

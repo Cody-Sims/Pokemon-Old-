@@ -1,0 +1,31 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Calm Mind,Psychic,,—,—
+1.0,Charm,Fairy,,—,100
+1.0,Confusion,Psychic,,50,100
+1.0,Disarming Voice,Fairy,,40,∞
+1.0,Double Team,Normal,,—,—
+1.0,Draining Kiss,Fairy,,50,100
+1.0,Dream Eater,Psychic,,100,100
+1.0,Fury Cutter,Bug,,40,95
+1.0,Future Sight,Psychic,,120,100
+1.0,Growl,Normal,,—,100
+1.0,Hypnosis,Psychic,,—,60
+1.0,Imprison,Psychic,,—,—
+1.0,Leer,Normal,,—,100
+1.0,Life Dew,Water,,—,—
+1.0,Night Slash,Dark,,70,100
+1.0,Psybeam,Psychic,,65,100
+1.0,Psychic,Psychic,,90,100
+1.0,Slash,Normal,,70,100
+9.0,Helping Hand,Normal,,—,—
+12.0,Feint,Normal,,30,100
+15.0,Teleport,Psychic,,—,—
+18.0,Aerial Ace,Flying,,60,∞
+23.0,False Swipe,Normal,,40,100
+28.0,Protect,Normal,,—,—
+35.0,Swords Dance,Normal,,—,—
+42.0,Psycho Cut,Psychic,,70,100
+49.0,Heal Pulse,Psychic,,—,—
+56.0,Quick Guard,Fighting,,—,—
+56.0,Wide Guard,Rock,,—,—
+63.0,Close Combat,Fighting,,120,100

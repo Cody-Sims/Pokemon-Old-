@@ -1,0 +1,17 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+4.0,Harden,Normal,,—,—
+7.0,Block,Normal,,—,—
+10.0,Rock Throw,Rock,,50,90
+13.0,Thunder Wave,Electric,,—,90
+16.0,Rest,Psychic,,—,—
+19.0,Spark,Electric,,65,100
+22.0,Rock Slide,Rock,,75,90
+25.0,Power Gem,Rock,,80,100
+28.0,Rock Blast,Rock,,25,90
+31.0,Discharge,Electric,,80,100
+34.0,Sandstorm,Rock,,—,—
+37.0,Earth Power,Ground,,90,100
+40.0,Stone Edge,Rock,,100,80
+43.0,Lock-On,Normal,,—,—
+43.0,Zap Cannon,Electric,,120,50

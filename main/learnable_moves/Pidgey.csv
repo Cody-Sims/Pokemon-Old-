@@ -1,0 +1,12 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+3.0,Sand Attack,Ground,,—,100
+5.0,Gust,Flying,,40,100
+9.0,Mirror Move,Flying,,—,—
+11.0,Quick Attack,Normal,,40,100
+15.0,Wing Attack,Flying,,60,100
+17.0,Roost,Flying,,—,—
+21.0,Whirlwind,Normal,,—,—
+23.0,Agility,Psychic,,—,—
+27.0,Air Slash,Flying,,75,95
+29.0,Razor Wind,Normal,,80,100

@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Tackle,Normal,,40,100
+5.0,Copycat,Normal,,—,—
+10.0,Feint Attack,Dark,,60,∞
+14.0,Psybeam,Psychic,,65,100
+19.0,Hypnosis,Psychic,,—,60
+23.0,Dizzy Punch,Normal,,70,100
+28.0,Sucker Punch,Dark,,70,100
+32.0,Teeter Dance,Normal,,—,100
+37.0,Uproar,Normal,,90,100
+41.0,Psych Up,Normal,,—,—
+46.0,Double-Edge,Normal,,120,100
+50.0,Flail,Normal,,—,100
+55.0,Thrash,Normal,,120,100

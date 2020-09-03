@@ -1,0 +1,14 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Growl,Normal,,—,100
+1.0,Tackle,Normal,,40,100
+4.0,Water Gun,Water,,40,100
+9.0,Mud-Slap,Ground,,20,100
+12.0,Foresight,Normal,,—,—
+17.0,Bide,Normal,,—,—
+20.0,Mud Sport,Ground,,—,—
+25.0,Rock Throw,Rock,,50,90
+28.0,Protect,Normal,,—,—
+33.0,Whirlpool,Water,,35,85
+36.0,Take Down,Normal,,90,85
+41.0,Hydro Pump,Water,,110,80
+44.0,Endeavor,Normal,,—,100

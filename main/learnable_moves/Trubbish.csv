@@ -1,0 +1,18 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Poison Gas,Poison,,—,90
+1.0,Pound,Normal,,40,100
+3.0,Recycle,Normal,,—,—
+6.0,Acid Spray,Poison,,40,100
+9.0,Amnesia,Psychic,,—,—
+12.0,Clear Smog,Poison,,50,—
+15.0,Toxic Spikes,Poison,,—,—
+18.0,Sludge,Poison,,65,100
+21.0,Stockpile,Normal,,—,—
+21.0,Swallow,Normal,,—,—
+24.0,Take Down,Normal,,90,85
+27.0,Sludge Bomb,Poison,,90,100
+30.0,Toxic,Poison,,—,90
+33.0,Belch,Poison,,120,90
+37.0,Pain Split,Normal,,—,—
+39.0,Gunk Shot,Poison,,120,80
+42.0,Explosion,Normal,,250,100

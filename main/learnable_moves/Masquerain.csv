@@ -1,0 +1,21 @@
+Lv.,Move,Type,Cat.,Power,Acc.
+1.0,Bubble,Water,,40,100
+1.0,Bug Buzz,Bug,,90,100
+1.0,Ominous Wind,Ghost,,60,100
+1.0,Quick Attack,Normal,,40,100
+1.0,Quiver Dance,Bug,,—,—
+1.0,Sweet Scent,Normal,,—,100
+1.0,Water Sport,Water,,—,—
+1.0,Whirlwind,Normal,,—,—
+6.0,Quick Attack,Normal,,40,100
+9.0,Sweet Scent,Normal,,—,100
+14.0,Water Sport,Water,,—,—
+17.0,Gust,Flying,,40,100
+22.0,Air Cutter,Flying,,60,95
+22.0,Scary Face,Normal,,—,100
+26.0,Stun Spore,Grass,,—,75
+32.0,Silver Wind,Bug,,60,100
+38.0,Air Slash,Flying,,75,95
+42.0,Bug Buzz,Bug,,90,100
+48.0,Whirlwind,Normal,,—,—
+52.0,Quiver Dance,Bug,,—,—
